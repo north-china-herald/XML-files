@@ -1,0 +1,1805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-stylesheet type="text/xsl" href="dig-eg-gaz.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">North China Herald</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <principal>Zachary Reddick</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2017-01-09">January 9, 2017<!-- Enter today's date --></date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The North China Herald</title>
+                    <date when="1851-01-04"><name>Saturday</name>, January 4, 1851</date>
+                    <extent><measure unit="pages" quantity="3">3</measure>pages</extent>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="page" n="1">
+                <div type="masthead">
+                    <head>North China Herald</head>
+                    <!-- enter issue number, day, and date of publication -->
+                </div>
+                <div type="advert">
+                    <head>Shipping</head>
+                    <p>FOR LONDON.</p>
+                    <p>The SIR GEORGE POLLOCK, Captain Withers, will have immediate despatch. For
+                        Freight apply to <affiliation>LINDSAY &amp; Co.</affiliation></p>
+                    <p><placeName>Shanghae</placeName>, <date>20th December. 1850</date>.</p>
+                </div>
+                <div type="advert">
+                    <head>Insurances</head>
+                    <p>alliance fire assurance</p>
+                    <p>COMPANY OF LONDON.</p>
+                    <p>THE undersigned having been appointed agents in China for the above COMPANY,
+                        are prepared to accept ASSURANCE at Shanghae. as under</p>
+                    <p>1st. On Buildings of Brick or Stone, covered with Tiles, Slates, Metal, or
+                        other Incombustible Material, when such Buildings are isolated from all
+                        others, Rate of Premium, 3/4 per cent per Annum. And on their Contents, at
+                        the Rate of 1 per cent</p>
+                    <p>per</p>
+                    <p>Assurances for 6 Months 3/4, and for 3 Months 1/2, of the Annual Rate will be
+                        charged.</p>
+                    <p>ASSURANCES, for the present, will be accepted to the extent of £7,000 only on
+                        one Risk.</p>
+                    <p>A Building and its Contents taken together form one Risk. Thus the above Sum
+                        may be underwritten either on a Building alone, or the Contents alone ; or,
+                        part on the Building, and part on the</p>
+                    <p>Contents. </p>
+                    <p>No ASSURANCE is to be considered in force until the Premium be paid.</p>
+                    <p>Amongst other advantages of the COMPANY, the ASSURED will be entitled to
+                        participated in the Profits after Five successive payments.</p>
+                    <p>Parties applying for ASSURANCES will please send in full particulars of the
+                        Risk to be taken; any Deviation from which without the Consent of the
+                        COMPANY, will vitiate the POLICY.</p>
+                    <p>JARDINE, MATHESON &amp; Co., Agents in Shanghae.</p>
+                    <p>Shanghae, 1st August, 1850.</p>
+                </div>
+                <div type="advert">
+                    <head>Insurance</head>
+                    <p>MARINE ASSURANCE.</p>
+                    <p>THE undersigned are prepared to accept risks on behalf of the following
+                        Offices to the amounts indicated opposite each and payable in Hongkong,
+                        Canton, Calcutta, Bombay, and London.</p>
+                    <p>Sea Risk. Harbour risk.</p>
+                    <p>Canton Insurance Office, Drs. 100,000 Dr. 200,000 Bombay Insurance Society,
+                        ,, 40,000 „ 50,000</p>
+                    <p>Bengal Insurance Society, ,, 40,000 ,, 12,000</p>
+                    <p>Reliance Marine Insurance</p>
+                    <p>Office, „ 25,000</p>
+                    <p>JARDINE, MATHESON &amp; Co.,</p>
+                    <p>Agents in Shanghae.</p>
+                    <p>Shanghae, 1st August, 1850.</p>
+                </div>
+                <div type="advert">
+                    <head>Insurance</head>
+                    <p>THE ROYAL INSURANCE COMPANY.</p>
+                    <p>Capital £2,000,000.</p>
+                    <p>TRUSTEES.</p>
+                    <p>JOHN SHAW LEIGH, Esq. </p>
+                    <p>R. B. B. H. BLUNDELL, Esq.</p>
+                    <p>THE undersigned having been appointed Agents for the above Company, are
+                        prepared to grant Policies against Fire on the usual terms to the extent of
+                        £10,000 an any one Building or on Merchandize Stored in any one
+                        Building.</p>
+                    <p>SYKES, SCHWABE &amp; Co. Shanghae, 9th June, 1849.</p>
+                </div>
+                <div type="advert">
+                    <head>Notice of Firms</head>
+                    <p>NOTICE.</p>
+                    <p>IS hereby given that the Partnership heretofore subsisting between us. the
+                        undersigned as General and Commission. Merchants at Shanhae in China, under
+                        the firm of THOS. RIPLEY &amp; Co, has this day terminated by effluxion of
+                        time, and is accordingly dissolved.</p>
+                    <p>Dated this Thirty-first day of December, One thousand Eight hundred and
+                        Fifty.</p>
+                    <p>THOS. RIPLEY. CHAS. SHAW.</p>
+                </div>
+                <div type="advert">
+                    <head>Notice of Firms</head>
+                    <p>THE Firm of THOS. RIPLEY &amp; Co., having terminated yesterday, I have taken
+                        into Partnership Mr. JOSEPH BLAND, (Nephew of Mr. Thos. Ripley), to continue
+                        the business as General and Commission Merchants from this date under the
+                        firm of SHAW, BLAND &amp; Co.</p>
+                    <p>CHAS. SHAW. Shanghae, 1st January, 1851.</p>
+                </div>
+                <div type="advert">
+                    <head>Notice of Firms</head>
+                    <p>NOTICE.</p>
+                    <p>THE BUSINESS, as Merchant &amp; Agent, heretofore conducted in this place, by
+                        Mr. FAZULBHOY. GOOLAMHOOSUN, in his own name, will from this date be
+                        continued by him under the designation of our firm</p>
+                    <p>CASSUMBHOY NATHABHOY &amp; Co.</p>
+                    <p>Shanghae, 1st January, 1851.</p>
+                </div>
+                <div type="advert">
+                    <head>Notice of Firms</head>
+                    <p>NOTICE.</p>
+                    <p>THE undersigned have formed a PARTNERSHIP, for the practice of MEDICINE and
+                        SURGERY, from this date.</p>
+                    <p>GEORGE ROGERS HALL, A.B.; M.D. JOHN IVOR MURRAY, M.D.; M.R.C.S.E. Shanghae,
+                        1st October, 1850.</p>
+                </div>
+                <div type="advert">
+                    <head>Miscellaneous</head>
+                    <p>CARD,</p>
+                    <p>EDWARD HALL,</p>
+                    <p>BREAD AND BISCUIT BAKER; AND GENERAL STORE KEEPER SHANGHAE.</p>
+                    <p>ALL KINDS OF FANCY BISCUITS MADE TO ORDER, SHIPPING SUPPLIED ON REASONABLE
+                        TERMS, BISCUITS REFIRED,</p>
+                    <p>&amp;£., &amp;C., &amp;C.</p>
+                </div>
+                <div type="advert">
+                    <head>Miscellaneous</head>
+                    <p>The practical instructions for the “ Navigation of the Yang-tsze-keang"
+                        published in our</p>
+                    <p>No. 3, of 17 th ultimo, will be reprinted very shortly, in the form of a
+                        Pamphlet, price 10 cents each copy.</p>
+                    <p>North-China Herald Office,</p>
+                    <p>Shanghae, 27th September, 1850.</p>
+                </div>
+                <div type="advert">
+                    <head>Miscellaneous</head>
+                    <p>CHINA BRANCH</p>
+                    <p>of </p>
+                    <p>THE ORIENTAL BANK.</p>
+                    <p>LOCAL BUSINESS.—The Bank receives Money in Deposit as follows:—</p>
+                    <p>I. For 3 Months certain, hearing Interest at</p>
+                    <p>3 per cent per annum.</p>
+                    <p>2. For 6 Months certain, bearing Interest at 4 per cent per annum.</p>
+                    <p>3. For 1 Year certain, repayable on 3 Months notice, at 6 per cent per
+                        annum.</p>
+                    <p>4. In Current Account, withdrawable on demand in Sums of 10 dollars and
+                        upwards.</p>
+                    <p>Current Accounts are kept in Spanish Dollars, balanced Half Yearly, bear no
+                        Interest, and are subject to the following Commissions, vis :— When the
+                        amount turned over during the</p>
+                    <p>Half Year is under 2,000 dollars, a Half-yearly Charge of 5 dollars will he
+                        made.</p>
+                    <p>Do. do. do. 25,000 dollars, 1/4 per cent on the amount</p>
+                    <p>The rate of Commission when the amount turned over exceeds 25,000 dollars,
+                        will be fixed by special agreement</p>
+                    <p>Inoperative Accounts will be subject to an Annual Charge on the balance at
+                        the above rates. </p>
+                    <p>The Bank issues Notes payable on demand, and grants Bank Post Bills at Three
+                        Days' sight free of charge.</p>
+                    <p>The Bank grants Loans and Cash Accounts upon various approved Securities, and
+                        discounts approved Bills and Promissory Notes not having a longer period
+                        than 3 months to run.</p>
+                    <p>EXCHANGE.—The Bank receives Tenders for the purchase of Bills on England and
+                        India, and sells its own Drafts on the Union Bank of London at One Day's to
+                        Six Months’ sight and on the National Bank of Scotland and Provincial Bank
+                        of Ireland at Short sight; also on the Three Presidences of India, and on
+                        Ceylon and Singapore, at Three Days’ to Sixty Days’ sight</p>
+                    <p>Information more in detail will be given at the Bank's Offices here, in
+                        Canton, and Shanghae.</p>
+                    <p>Hongkong Office.</p>
+                    <p>CHARLES J. F. STUART, Manager.</p>
+                    <p>SAM. GRAY, Accountant.</p>
+                    <p>FREDERICK TOZER, Deputy Accountant.</p>
+                    <p>Canton Sub-Branch.</p>
+                    <p>Archd. DUNLOP, Manager.</p>
+                    <p>PATRICK CAMPBELL, Accountant.</p>
+                </div>
+                <div type="advert">
+                    <head>Miscellaneous</head>
+                    <p>Shanghae Sub-Branch. EDWARD LANGLEY, Manager. BERNARD E. HANCOCK, Acting
+                        Accountant.</p>
+                    <p>By order of the Directors,</p>
+                    <p>CHARLES J. F. STUART,</p>
+                    <p>Manager.</p>
+                    <p>Hongkong, 5th November, 1850.</p>
+                </div>
+                <div type="advert">
+                    <head>Miscellaneous</head>
+                    <p>NOTICE.</p>
+                    <p>THE Community is respectfully informed, that all Communications,
+                        Advertisements, and insertions for the following number, should be sent, on
+                        or before Thursday in each week, or they will be too late for the same
+                        week's issue.</p>
+                    <p>North-China Herald Office,</p>
+                    <p>Shanghae, 24th August 1850.</p>
+                </div>
+                <div type="advert">
+                    <head>Miscellaneous</head>
+                    <p>NOTICE.</p>
+                    <p>JOB PRINTING in all its branches, will be executed at our office, on the
+                        usual terms, with the greatest attention and despatch.</p>
+                    <p>North-China Herald Office,</p>
+                    <p>Shanghae, 3rd August, 1850, </p>
+                </div>
+                <div type="advert">
+                    <head>For Sale</head>
+                    <p>ADVERTISMENT.</p>
+                    <p>COPIES of the BI-WEEKLY and OVERLAND ISSUES of the Friend of China Newspaper
+                        can be obtained at the office of</p>
+                    <p>D. REMI.</p>
+                    <p>Shanghae, November, 1850.</p>
+                </div>
+                <div type="advert">
+                    <head>For Sale</head>
+                    <p>FOR SALE.</p>
+                    <p>CHAMPAGNE (Ay).</p>
+                    <p>SAUTERNE.</p>
+                    <p>HOCK vin du Rhin.</p>
+                    <p>BURGUNDY Pomard.</p>
+                    <p>CLARET Chateau Margot.</p>
+                    <p>D. REMI.</p>
+                    <p>Shanghae, 9th October, 1850.</p>
+                </div>
+                <div type="advert">
+                    <head>For Sale</head>
+                    <p>P. F. RICHARDS &amp; Co.,</p>
+                    <p>SHIP CHANDLERS,</p>
+                    <p>STOREKEEPERS AND GENERAL COMMISSION AGENTS,</p>
+                    <p>ESTABLISHED IN 1844,</p>
+                    <p>SHIPPING SUPPLIED WITH FRESH PROVISIONS.</p>
+                </div>
+                <div type="advert">
+                    <head>For Sale</head>
+                    <p>FOR SALE.</p>
+                    <p>45. Dont make a noise, I wish to writa</p>
+                    <p>By the undersigned— </p>
+                    <p> Fine BEEF, and MUTTON.</p>
+                    <p>HAMS,</p>
+                    <p>Salted OX and SHEEP’S TONGUES. Preserved POTATOES. , .</p>
+                    <p>Split PEAS.</p>
+                    <p>Fresh SALMON, in 4lb Tins</p>
+                    <p>Salt BEEF and PORK, in Cask and Tierce</p>
+                    <p>of superior quality.</p>
+                    <p>Fine American &amp; Port Phillip FLOUR, quite new. </p>
+                    <p>Superior BUTTER, in 16lb Kegs.</p>
+                    <p>Sir Wm. Burnett’s Patent DISINFECT-</p>
+                    <p>ING FLUID.</p>
+                    <p>One large MEDICINE CHEST, complete. An assortment of STATIONERY, &amp;c.,
+                        &amp;c.</p>
+                    <p>P. F. RICHARDS &amp; Co. Shanghae, November 21st, 1850.</p>
+                </div>
+                <div type="advert">
+                    <head>For Sale</head>
+                    <p>Just received and for sale</p>
+                    <p>BY the undersigned—</p>
+                    <p>Superior Chedder &amp; Berkley Cheese,</p>
+                    <p>quite new. </p>
+                    <p>Smyrna FIGS.</p>
+                    <p>Persian CARPETS or RUGS.</p>
+                    <p>3 very superior FOWLING PIECES, by Williams &amp; Powell.</p>
+                    <p>also,</p>
+                    <p>Patent SHOT BELTS,</p>
+                    <p>POWDER FLASKS.</p>
+                    <p> PERCUSSION CAPS</p>
+                    <p>And 1 pair BOAT’S Davidts, &amp;c.</p>
+                    <p>P. F. RICHARDS &amp; Co. Shanghae, 5th December, 1850. .</p>
+                </div>
+                <div type="advert">
+                    <head>For Sale</head>
+                    <p>NOTICE.</p>
+                    <p>SHI PM ASTERS are respectfully informed that the undersigned have opened a
+                        READING ROOM in their Establishment expressly for their accommodation.</p>
+                    <p>P. P. RICHARDS &amp; Co. Shanghae, 14th August, 1850.</p>
+                </div>
+                <div type="advert">
+                    <head>For Sale</head>
+                    <p>H. FOGG &amp; Co.,</p>
+                    <p>ship chandlers, storekeepers, general AGENTS, AND AUCTIONEERS.</p>
+                    <p>N. B. For Goods Sold by Auction, account</p>
+                    <p>- Sale and proceeds rendered 3 days from date of Sale.</p>
+                    <p>SHOULD sufficient inducement offer they will hold an Auction monthly, or as
+                        often as occasion demands.</p>
+                    <p>Shanghae, 1st August, 1850.</p>
+                </div>
+                <div type="advert">
+                    <head>For Sale</head>
+                    <p>FOR SALE.</p>
+                    <p>BY the undersigned—</p>
+                    <p>Abbott’s PALE ALE, in Hogsheads.</p>
+                    <p> H. FOGG &amp; Co. Shanghae, 27th November, 1850.</p>
+                </div>
+                <div type="advert">
+                    <head>For Sale</head>
+                    <p>FOR SALE.</p>
+                    <p>At WOLCOTT, BATES &amp; Co.'s Godowns,-GALVANIZED ZINC PLATES for</p>
+                    <p>Roofing.</p>
+                    <p>Patent SHOWER BATHS.</p>
+                    <p>CLARET,</p>
+                    <p>SHERRY, Superior Wines.</p>
+                    <p>PORT, </p>
+                    <p>COGNAC BRANDY.</p>
+                    <p>BEER, and PORTER.</p>
+                    <p>American BUTTER.</p>
+                    <p>CANVAS.</p>
+                    <p>Shanghae, 25th October, 1850.</p>
+                </div>
+                <div type="item">
+                    <head> PRESENT PRICES OF PROVISIONS SUPPLIED AT THE SHANGHAE MARKET.</head>
+                    <p><date>Shanghae, 4th January, 1851</date></p>
+                    <p>
+                        <table rows="20" cols="4">
+                            <row>
+                                <cell>Fresh Beef</cell>
+                                <cell>Dollar</cell>
+                                <cell>14</cell>
+                                <cell>lb</cell>
+                            </row>
+                            <row>
+                                <cell>Mutton</cell>
+                                <cell>Dollar</cell>
+                                <cell>11</cell>
+                                <cell>lb</cell>
+                            </row>
+                            <row>
+                                <cell>Veal</cell>
+                                <cell>Dollar</cell>
+                                <cell>12</cell>
+                                <cell>lb</cell>
+                            </row>
+                            <row>
+                                <cell>Lamb</cell>
+                                <cell>Dollar</cell>
+                                <cell>12</cell>
+                                <cell>lb</cell>
+                            </row>
+                            <row>
+                                <cell>Pork</cell>
+                                <cell>Catty</cell>
+                                <cell>120</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Kids</cell>
+                                <cell>Dollar</cell>
+                                <cell>each.</cell>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell>Fish</cell>
+                                <cell>Catty</cell>
+                                <cell>80-100</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Shrimps</cell>
+                                <cell>Catty</cell>
+                                <cell>100</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Eggs</cell>
+                                <cell>each</cell>
+                                <cell>6</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>
+                                    <p>Chinese Bacon,</p>
+                                </cell>
+                                <cell>Catty</cell>
+                                <cell>120</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Ham</cell>
+                                <cell>Catty</cell>
+                                <cell>300</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>
+                                    <p>Wild Geese,</p>
+                                </cell>
+                                <cell>Catty</cell>
+                                <cell>none</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Pheasants</cell>
+                                <cell>brace</cell>
+                                <cell>500</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Wild Ducks</cell>
+                                <cell>brace</cell>
+                                <cell>500</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Hares</cell>
+                                <cell>brace</cell>
+                                <cell>600</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Woodcocks</cell>
+                                <cell>each</cell>
+                                <cell>400-500</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Quails</cell>
+                                <cell>each</cell>
+                                <cell>70-80</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Teal</cell>
+                                <cell>pair</cell>
+                                <cell>400</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Wild Pigeons</cell>
+                                <cell>each</cell>
+                                <cell>80</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Fowls</cell>
+                                <cell>catty</cell>
+                                <cell>125-130</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Ducks</cell>
+                                <cell>catty</cell>
+                                <cell>110-120</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Geese</cell>
+                                <cell>each</cell>
+                                <cell>1-1 1/4</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Fat Sheep</cell>
+                                <cell>each</cell>
+                                <cell>4-5</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Vegetables, (assorted)</cell>
+                                <cell>catty</cell>
+                                <cell>12-20</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Oranges</cell>
+                                <cell>catty</cell>
+                                <cell>50</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Pears</cell>
+                                <cell>catty</cell>
+                                <cell>30</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Pomegranates</cell>
+                                <cell>catty</cell>
+                                <cell>30</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Cumquats</cell>
+                                <cell>catty</cell>
+                                <cell>60</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Dates, fresh</cell>
+                                <cell>catty</cell>
+                                <cell>180</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Walnuts, best fresh</cell>
+                                <cell>catty</cell>
+                                <cell>80</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Chesnuts</cell>
+                                <cell>catty</cell>
+                                <cell>50</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Flour</cell>
+                                <cell>catty</cell>
+                                <cell>36</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Bread</cell>
+                                <cell>12, 2lb loaves</cell>
+                                <cell>1</cell>
+                                <cell>Drs.</cell>
+                            </row>
+                            <row>
+                                <cell>Biscuit</cell>
+                                <cell>lb</cell>
+                                <cell>4-8</cell>
+                                <cell>cents</cell>
+                            </row>
+                            <row>
+                                <cell>Sugar, White,</cell>
+                                <cell>catty</cell>
+                                <cell>90</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Brown</cell>
+                                <cell>catty</cell>
+                                <cell>84</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>Common</cell>
+                                <cell>catty</cell>
+                                <cell>60</cell>
+                                <cell>Cash</cell>
+                            </row>
+                            <row>
+                                <cell>
+                                    <p>Pounded Sugar Candy </p>
+                                    <p/>
+                                </cell>
+                                <cell>lb</cell>
+                                <cell>10</cell>
+                                <cell>cents</cell>
+                            </row>
+                            <row>
+                                <cell>
+                                    <p>Oils, Te or best ground</p>
+                                    <p>Nut-oil</p>
+                                </cell>
+                                <cell>catty</cell>
+                                <cell>84</cell>
+                                <cell>cash</cell>
+                            </row>
+                            <row>
+                                <cell>Dollar</cell>
+                                <cell>yellow cash</cell>
+                                <cell>1320</cell>
+                                <cell>(current price)</cell>
+                            </row>
+                        </table>
+                    </p>
+                </div>
+                <div type="item">
+                    <head>From the San Francisco Daily Herald, September 7.</head>
+                    <p>Norman Assing, “ Chief of the China Boys,” with a praiseworthy disposition to
+                        have justice administered among his subjects in conformity with the laws and
+                        by the authorities of their adopted country, appeared this morning before
+                        his Honor the Recorder, to complain that Asseck, Arque and Assem had
+                        committed an assault upon Ching Ching, during which they had damaged not
+                        only his celestial body, but also its cerulean vestment ; and to have meted
+                        out to them a proper punishment. His Honor was at first somewhat puzzled how
+                        to administer the necessary oath to Ching Ching, the complain-</p>
+                    <p>ing witness ; but Norman Assing offered to act as interpreter, and performed
+                        the ceremony by means of a somewhat lengthy harangue, accompanied with
+                        gestures very similar to their hieroglyphics, which was listened to by the
+                        Court, the witness and all parties, in mute admiration. By the aid of the
+                        same interpreter, the witness unfolded his tale, (we do not mean his long
+                        queue,) at the conclusion of which his Honor sentenced the accused trio to a
+                        fine of 5 dollars each, and one day’s residence among the in-side barbarians
+                        of Captain Fallon’s lock-up ; also to contribute sufficient funds to replace
+                        Ching Ching’s torn garment ; or, in the words of the decision, to robe him “
+                        in statu quo ante bellum."</p>
+                    <p>Norman Assing rejoiced at the equitable decision of the Court, and delivered
+                        his belligerent subjects into the hands of Captain Beck, with sundry moral
+                        maxims for them to reflect upon during their confinement.</p>
+                </div>
+                <div type="item">
+                    <head>Phrases in the Shanghae Dialect</head>
+                    <!-- see image file-->
+                </div>
+            </div>
+            <div type="page" n="2">
+                <div type="item">
+                    <head>The North China Herald</head>
+                    <p>NOTICE.—During the restoration of Trinity Church, Divine Service is held in
+                        the Godown of J. White, Esq., Wei-ke. Hours of Service 11 o'clock a.m. and 3
+                        p.m.</p>
+                    <p>JOHN HODSON,</p>
+                    <p>Officiating Minister.</p>
+                </div>
+                <div type="item">
+                    <head>The North China Herald</head>
+                    <p>NOTICE.—Public Worship is held in the new School-room, on the premises of the
+                        “London Missionary Society,” every Sabbath, at half-past 9 A..</p>
+                    <p>Shanghae, December 5th, 1850.</p>
+                </div>
+                <div type="item">
+                    <head>The North China Herald</head>
+                    <p>MARRIED.—At the British Consulate on the 1st instant, by the Revd. John
+                        Hobson, Charles A. Fearon, Esq. to Ellen, second daughter of J. S. Smith,
+                        Esq., of Bromley, Kent</p>
+                </div>
+                <div type="item">
+                    <head>The North China Herald</head>
+                    <p>TO CORRESPONDENTS, AND CONTRIBUTORS.</p>
+                    <p>Anonymous communications on matters of public policy, or general interest ;
+                        will be thankfully received: as also any hints or suggestions for the
+                        improvement of our print, or in aid of our objects.</p>
+                    <p>Contributions duly authenticated with the writer's name and address, will at
+                        all times receive due attention. The names of correspondents and
+                        contributors will noT be published, if they prefer any other
+                        designation.</p>
+                    <p>We cannot pledge ourselves to return papers not published.</p>
+                    <p>An Editor's box will be kept at the office, for the reception of all
+                        communications.</p>
+                </div>
+                <div type="item">
+                    <head>Latest Dates</head>
+                    <p><table rows="7" cols="4">
+                            <row>
+                                <cell>England</cell>
+                                <cell>24th Oct. </cell>
+                                <cell>Port Philip, </cell>
+                                <cell>17th Sept. </cell>
+                            </row>
+                            <row>
+                                <cell>Calcutta</cell>
+                                <cell>
+                                    <p>7th Nov.</p>
+                                </cell>
+                                <cell>Sydney</cell>
+                                <cell>13th Oct.</cell>
+                            </row>
+                            <row>
+                                <cell>Bombay</cell>
+                                <cell>
+                                    <p>19th Nov.</p>
+                                </cell>
+                                <cell>Amoy</cell>
+                                <cell>30th Nov.</cell>
+                            </row>
+                            <row>
+                                <cell>
+                                    <p>Madras,</p>
+                                </cell>
+                                <cell>
+                                    <p>14th Nov.</p>
+                                </cell>
+                                <cell>Hongkong</cell>
+                                <cell>21st Dec.</cell>
+                            </row>
+                            <row>
+                                <cell>Singapore</cell>
+                                <cell>7th Dec.</cell>
+                                <cell>Ningpo</cell>
+                                <cell>14th Dec.</cell>
+                            </row>
+                            <row>
+                                <cell>Penang</cell>
+                                <cell>
+                                    <p>1st Dec.</p>
+                                </cell>
+                                <cell>
+                                    <p>New York,</p>
+                                </cell>
+                                <cell>13th Oct.</cell>
+                            </row>
+                            <row>
+                                <cell>Batavia</cell>
+                                <cell>25th Nov.</cell>
+                                <cell>
+                                    <p>San Francisco,</p>
+                                </cell>
+                                <cell>8th Nov.</cell>
+                            </row>
+                            <row>
+                                <cell>Manila</cell>
+                                <cell>
+                                    <p>2d Dec.</p>
+                                </cell>
+                                <cell>
+                                    <p>Sdwich. Islands</p>
+                                </cell>
+                                <cell>4th Nov</cell>
+                            </row>
+                        </table></p>
+                </div>
+                <div type="article">
+                    <head>The New Year</head>
+                    <p>THE NEW YEAR.</p>
+                    <p>The New Year has dawned promisingly upon us. We have squared accounts with A.
+                        D. 1850. We start anew in life, we begin a new page of history, we enter
+                        upon a year yet unsullied with blots and calamities. How refreshing is such
+                        a break in the monotony of life, how beneficial such a fresh starting point
+                        in the world’s race! How congenial to hope, how provocative of good
+                        resolutions is a New Year!</p>
+                    <p>In these our days when events unfold themselves with a rapidity and suddeness
+                        that would have startled fair steadier slow going forefathers there is
+                        something more than ordinary in the anticipative feelings with which we hail
+                        a new year. We have seen what a single year has brought forth, we have seen
+                        a year, aye a month, aye a day crowded with events big with importance which
+                        in days of yore Would have been spread over a life time. With such
+                        precedents before us, and with, the rations of the earth in no state of
+                        torpor, we hold our breath in anxious suspense. What shall the year 1851 see
+                        ? what shall its historian have to record ? The ceaseless progress of
+                        science, the increasing rapidity of communication and facility of locomotion
+                        all tend towards an acceleration of life in all its phases. The wonderful
+                        activity of the human mind, starting, as it does, from the vantage ground of
+                        the labours of all preceding mind, bent as it is in so many million
+                        instances, upon the study and elucidation of the properties of physical
+                        creation and the application of those properties to the alleviation of human
+                        evil and the advancement of our race,—compels us to mingle no slight degree
+                        of certainty with our anticipations. We know that at the close of -1851,
+                        if-We have not to look back with</p>
+                    <p>wonder and surprise upon mighty changes and convulsions in nations, we shall
+                        have to look upon mightier manifestations of the principles good and evil
+                        that are stalking through the earth, upon splendid discoveries in the
+                        sciences, and upon the application of those discoveries for the well-being
+                        of man. Let no one accuse us of usurping the Prophet's place in writing thus
+                        : It is evident on the one hand that we have not attained the ulti-matum of
+                        truth in any of its brandies political, forensic or scientific, the law of
+                        finality evidently cannot yet be applied in the regions of mind and matter.
+                        It is evident enough on the other hind that the days of mental slumber are
+                        at an end, mind is fully awake and will work and will not be hindered ; it
+                        is evident too that in a degree hitherto unknown, the labours of mind are
+                        directed towards the practical, the useful, the beneficial, and that one.
+                        glimpse of truth, one seeming lucky guess, may as often heretofore, open the
+                        door to boundless fields of truth. Thus then with a rich mine only</p>
+                    <p>partially, in how small a part ! explored, with millions of miners patiently
+                        and intensity working, are we wrong in confidently expecting that, year by
+                        year stores of rich gold should he brought forth for enriching the sons of
+                        men ? No ! creation so richly endowed, With so many wondrous properties must
+                        reveal her long closed secrets, must give up her stores for the use of man.
+                        Constituted Lord of the earth at its creation, man is only now awaking to
+                        the extent of his</p>
+                    <p>dominion. A Beneficient</p>
+                    <p> creator is leading him on and pointing how he may make the lightning his
+                        messenger and all the elements his servants. </p>
+                    <p>Heartily, then do we wish our readers, a happy new year.</p>
+                </div>
+                <div type="item">
+                    <head>Circular</head>
+                    <p>The annexed translation of an official Letter from His Excellency Woo Keen
+                        Chang the officiating Taoutae advising Her Britannic Majesty’s Consul of the
+                        immediate commencement of three Bridges for the improvement of the land
+                        communication with Woosung is sent round for general information.</p>
+                    <p>Her Majesty’s Consul has for some time urged upon the Taoutae’s attention the
+                        expediency of this measure, as greatly calculated to advance the interests
+                        of the Mercantile Community, and contribute to the general convenience, and
+                        he has much pleasure in making known the result.</p>
+                    <p>British Consulate, Shanghae, 31st December, 1850.</p>
+                    <p>(Signed) Rutherford Alcock, Consul.</p>
+                    <p>True Copy,</p>
+                    <p>W. Fittock.</p>
+                    <p>To the British and Foreign Community, Shanghae.</p>
+                </div>
+                <div type="item">
+                    <head>Acting Taoutae Woo Keen Chang</head>
+                    <p>With reference to the matter of the Bridge you wish built over the stream
+                        called the the Se-kew-kong, I have the honor to inform you that I have
+                        directed the District Magistrate to depute an officer to arrange with the
+                        requisite number of workmen and the neighbouring inhabitants for the
+                        erection of three wooden bridges according to the old model ; 8 o’clock a.m.
+                        to-day is'the hour determined upon for commencing the work, and every
+                        expedition will be given so as to complete the bridges in about a month from
+                        this time, I beg to enclose herewith</p>
+                    <p>two pians of the proposed works.</p>
+                    <p>Received 11th month, 25th day, 28th</p>
+                    <p>December, 1850.</p>
+                    <p>To R. Alcock, Esquire.</p>
+                    <p>—True Translation,</p>
+                    <p>(Signed) W. H. Medhurst.</p>
+                    <p>True Copy,</p>
+                    <p>W. Fittock.</p>
+                </div>
+                <div type="item">
+                    <p>The Lady Mary Wood, left Hongkong at 5 p.m. 21st ultimo, and was at anchor
+                        four nights during the passage up in consequence of heavy weather. She had
+                        on board 720 chests of Opium and 50,000 dollars. She arrived at Woosung on
+                        the 29th December 1850.</p>
+                    <p>She brought the English and Indian Mails, with date from London of 24th
+                        October and others as stated above.</p>
+                    <p>No news worth extracting.</p>
+                </div>
+                <div type="item">
+                    <p>San Francisco, 6th Nov., 1850. Owing to the prevalence of Cholera, the
+                        market</p>
+                    <p>is for the present quite inactive ; so long as the weather remains favorable
+                        there is little fear of the disease raging to the extent that it has done in
+                        other parts of the United States. Mining continues</p>
+                    <p>very productive, and gold dust is now more plentiful than it has been for
+                        many months past Many people are leaving the country, but their places are
+                        rapidly supplied by the overland emigration which this season is
+                        immense.</p>
+                    <p><table rows="16" cols="4">
+                            <row>
+                                <cell>Good Manila Coffee</cell>
+                                <cell>Drs. 00.21</cell>
+                                <cell>a</cell>
+                                <cell>00.23p.lb.</cell>
+                            </row>
+                            <row>
+                                <cell>Good Manila Cigars No. 1</cell>
+                                <cell>Drs 35</cell>
+                                <cell>a</cell>
+                                <cell>40 p box</cell>
+                            </row>
+                            <row>
+                                <cell>Good Manila Cigars No. 2</cell>
+                                <cell>Drs 25</cell>
+                                <cell>a</cell>
+                                <cell>30 p box</cell>
+                            </row>
+                            <row>
+                                <cell>Good Manila Cigars No. 3</cell>
+                                <cell>Drs no sale</cell>
+                                <cell>a</cell>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell>China Sugar, No. 1</cell>
+                                <cell>Drs .12</cell>
+                                <cell>a</cell>
+                                <cell>.14 p lb</cell>
+                            </row>
+                            <row>
+                                <cell>China Sugar, No. 2</cell>
+                                <cell>Drs .08</cell>
+                                <cell>a</cell>
+                                <cell>.1 p. lb</cell>
+                            </row>
+                            <row>
+                                <cell>Teas, Good Gunpowder</cell>
+                                <cell>Drs 1.25</cell>
+                                <cell>a</cell>
+                                <cell>p. lb</cell>
+                            </row>
+                            <row>
+                                <cell>Good Imperial</cell>
+                                <cell>Drs 1.25</cell>
+                                <cell>a</cell>
+                                <cell>p. lb</cell>
+                            </row>
+                            <row>
+                                <cell>Good Hyson</cell>
+                                <cell>Drs 1.25</cell>
+                                <cell>a</cell>
+                                <cell>1.40 p. lb </cell>
+                            </row>
+                            <row>
+                                <cell>Good Young Hyson</cell>
+                                <cell>Drs 1.25</cell>
+                                <cell>a</cell>
+                                <cell>1.5 p. lb</cell>
+                            </row>
+                            <row>
+                                <cell>Good Oolong</cell>
+                                <cell>Drs 1.10</cell>
+                                <cell>a</cell>
+                                <cell>1.25 p. lb</cell>
+                            </row>
+                            <row>
+                                <cell>Good Souchong</cell>
+                                <cell>Drs 1</cell>
+                                <cell>a</cell>
+                                <cell>1.25 p. lb</cell>
+                            </row>
+                            <row>
+                                <cell>Manila Cordage, 2 ½ a 4in</cell>
+                                <cell>Drs .25</cell>
+                                <cell>a</cell>
+                                <cell>.3</cell>
+                            </row>
+                            <row>
+                                <cell>Manila Cordage, smalle size</cell>
+                                <cell>Drs .4</cell>
+                                <cell>a</cell>
+                                <cell>.45</cell>
+                            </row>
+                            <row>
+                                <cell>Canton Matting</cell>
+                                <cell/>
+                                <cell>a</cell>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell>4:4 white 40-yards</cell>
+                                <cell>Drs 16</cell>
+                                <cell>a</cell>
+                                <cell>p. roll</cell>
+                            </row>
+                            <row>
+                                <cell>4:4 white 25-yards</cell>
+                                <cell>Drs 11</cell>
+                                <cell>a</cell>
+                                <cell>12 p. roll</cell>
+                            </row>
+                            <row>
+                                <cell>4:4 colrd. 40-yards</cell>
+                                <cell>Drs 18</cell>
+                                <cell>a</cell>
+                                <cell>p. roll</cell>
+                            </row>
+                            <row>
+                                <cell>4:4 colrd. 25-yards</cell>
+                                <cell>Drs 12</cell>
+                                <cell>a</cell>
+                                <cell>14 p roll</cell>
+                            </row>
+                            <row>
+                                <cell>Good China Rice</cell>
+                                <cell>Drs .04 1/2</cell>
+                                <cell>a</cell>
+                                <cell>.05 p. lb</cell>
+                            </row>
+                            <row>
+                                <cell>Good China Preserves (6 jars)</cell>
+                                <cell>Drs 5.5</cell>
+                                <cell>a</cell>
+                                <cell>6 p. case</cell>
+                            </row>
+                            <row>
+                                <cell>Good Lemon Syrup</cell>
+                                <cell>Drs 5</cell>
+                                <cell>a</cell>
+                                <cell>6 p. doz</cell>
+                            </row>
+                            <row>
+                                <cell>Dried Fruit</cell>
+                                <cell>Drs no sale</cell>
+                                <cell>a</cell>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell>Camphor-wood Trunks</cell>
+                                <cell/>
+                                <cell>a</cell>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell>in sets of three</cell>
+                                <cell>Drs 45</cell>
+                                <cell>a</cell>
+                                <cell>50 p. set</cell>
+                            </row>
+                            <row>
+                                <cell>Silks - none in market.</cell>
+                                <cell/>
+                                <cell/>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell>Grass cloth - not wanted till spring.</cell>
+                                <cell/>
+                                <cell/>
+                                <cell/>
+                            </row>
+                        </table></p>
+                </div>
+                <div type="item">
+                    <head>Pekin Reporter</head>
+                    <p>SUMMARY and EXTRACTS.</p>
+                    <p>No. 117, Oct. 20th and 21st, 1850.</p>
+                    <p>Decrees and Rescripts.</p>
+                    <p>The first Decree confers promotion and honor upon a number of the civil and
+                        military officers of Shantung Promontory, for their success in an expedition
+                        against some pirates, more than 500 of whom they have captured and
+                        killed.</p>
+                    <p>The second Decree also rewards certain military officers on the Mongolian
+                        Frontier for similar zeal in the apprehension of daring robbers.</p>
+                    <p>In the third Decree His Majesty anxious that his people should suffer as
+                        little as possible from the effects of the procession about to he made to
+                        escort the late Emperor's remains to the family tomb, commands that for
+                        every mow of land trodden down by the cavalcade on their way from Pekin into
+                        the Kift District, the sum of one mace of silver shall be paid out of the
+                        Chihle Treasury, to enable the proprietors to purchase young shoots of wheat
+                        wherewith to replant the ground. This they could easily do as the blade was
+                        just then (the middle of the 9th month) shooting forth from the buried
+                        seed.</p>
+                    <p>The fourth Decree calls upon the ministers who are in charge of the road
+                        along which His Majesty would travel on the 18th day of the 9th month to
+                        escort his father’s remains, to be vigilant and watchful, and especially
+                        careful that the path prepared for the purpose be not injured by the
+                        chariots and horses of the officers and attendants who follow the
+                        procession.</p>
+                    <p>The next Decree commands the Viceroy of Chihle to publish an Imperial
+                        Proclamation setting forth His Majesty's gracious intention to remit the
+                        coming year’s taxes on the six Districts of Wahping, Leangheang, Cho,
+                        Fangshan, Laeshwuy and as well as those of the present year, as an
+                        extraordinary mark of his benevolence and goodness. These are the districts
+                        through which the procession of the remains of the late Emperor would pass
+                        on their way to the Imperial tombs. They lie in a S.W. direction from the
+                        Capital, the furthest, Yih chow, being 220 le distant from Peking. •</p>
+                    <p>The sixth Decree confirms the appointment of Kingtih to the military command
+                        of the Lintsing division in Shantung.</p>
+                    <p>The seventh Decree takes up a complaint made by the Board of War against the
+                        Magistrate of Tungshan Hern in Keangsoo, for presuming, a-gainst the form of
+                        the statute in such cases provided, to forward to Peking by Government
+                        special courier, the application of a military graduate desirous of entering
+                        himself for the metropolitan examinations; and His Majesty commands the
+                        Governor of Keangsoo to ascertain why the Magistrate in question took upon
+                        himself thus to put Government to this excessive and unnecessary
+                        expenditure.</p>
+                    <p>The last confirms a subordinate appointment in the censorate.</p>
+                    <p>Memorials.</p>
+                    <p>The first Memorial reports to the Emperor a case of forcible transit through
+                        one of the Great Wall Barrier Gates on the part of some Mohammedan sheep
+                        drivers wearing blue and white turbans, and carrying sticks and swords, in
+                        order to avoid payment of the customary duty, and begs His Majesty to direct
+                        the Board of Punishments to treat with the utmost rigour so flagrant a case
+                        of contempt of authority.</p>
+                    <p>The second Memorial informs His Majesty of the falling in of the roof of- one
+                        of the pavilion temples in the Imperial Gardens of Tsinge yuen whereby the
+                        right arm of a colossal statue of Budha has been broken off, and a number of
+                        the surrounding idols severely injured, and the Memorialist begs that a
+                        competent surveyor may be deputed to examine into the extent of the damage
+                        done. </p>
+                    <p>The last Memorial is from a censor advising His Majesty to call upon all his
+                        provincial representatives to see the “constant granaries" in every district
+                        and departmental town, properly filled up with grain. The primary object of
+                        these Government granaries is to provide the people with grain at a reduced
+                        and equable price at that particular time of the year when-“green has not
+                        resolved itself into yellow ” or in the intervals between the crops, and
+                        during times of scarcity and distress. Then when grain is again abundant and
+                        the price low, it has to be purchased into store, to fill the granary for
+                        future exigencies. These depositions are therefore called “ constant
+                        stores.”</p>
+                </div>
+                <div type="item">
+                    <head>To the Editor of the "North China Herald"</head>
+                    <p>To the Editor of the</p>
+                    <p>“North-China Herald.”</p>
+                    <p>Mr. Editor,—I have got hold of a well written little Chinese Paper on Early
+                        Rising a translation of which I herewith </p>
+                    <p>hand you, and commend the sentiments of the Paper to “ all whom it may
+                        concern.”</p>
+                    <p>The “ three glories ” referred to in the Proverb arc the Sun, Moon and Stars
+                        ; and the “ three hurries" refer to the books to be read, the business to be
+                        transacted, and the daily good deeds to be performed. </p>
+                </div>
+                <div type="item">
+                    <head>Translation</head>
+                    <p>Translation.</p>
+                    <p>Every day rise early. The poems of the men Tang observe, when at home make it
+                        your constant rule to rise early ; cherish deep anxiety for the welfare of
+                        the nation, and heartily desire the year to be crowned with abundant
+                        harvests.</p>
+                    <p>It is important for those who are heads of families to be aware that if they
+                        rise early, then which of the children of the family, younger brothers, or
+                        domestics will dare lazily to sleep ? ' Each servant will then’give
+                        attention to his own appropriate business ; diligence and economy will
+                        predominate, and daily will be the increase</p>
+                    <p>of prosperity and affluence. The calcula-</p>
+                    <p>tions of each day depend upon the time between three and five o'clock in the
+                        morning. Very early in the morning too, all the higher energies of the human
+                        system are of doubly increased proportions. During these early hours, in the
+                        study of books immense advantages are realized ; and during this space of
+                        time too, a vast deal may meritoriously be effected. And furthermore, in the
+                        family circle all miscellaneous matters should decidedly be arranged early
+                        in the day, </p>
+                    <p>The Proverb says,—</p>
+                    <p>Three brilliant glories on the early riser shine While he who rises late
+                        three hurries vex his mind.</p>
+                    <p>Yours, &amp;c., SINENSIS.</p>
+                    <p>Shanghae, 1st January, 1851.</p>
+                </div>
+                <div type="article">
+                    <head>REPORT ON THE MARITIME TRADE OF CHINA, AND THE PROSPECTS OF THE MORE
+                        VALUABLE PORTION BEING Transferred TO FOREIGN BOTTOMS. </head>
+                    <p>With the Polynesian Archipelago, in connection with the Dutch, Spanish, and
+                        English colonies, a large trade is known to he carried on by the Chinese,
+                        although the amount is variously estimated by different authorities. The
+                        exports from China to Singapore alone in 1814, according to official
+                        returns, amounted to 2,073, 233 dollars, and the imports into China
+                        3,256,260; exports from China 1834-5 were 766,955, and the imports into
+                        China 1,213,695 dollars. And up to the year 1843-4 the trade with that port
+                        has been progressively increasing. With Cochin China, Siam, Corea, Japan,
+                        and Formosa there is also a large though decreasing trade. The Junk trade
+                        from the different Chinese ports along the coast is very great. Many causes
+                        seem to be in operation, the tendency's of which is to divert a considerable
+                        portion of the Chinese carrying trade to foreign bottoms. These tendencies,
+                        both politically and commercially, may soon be productive of results of
+                        great importance and are worthy of attention.</p>
+                    <p>The history of this trade and its progress ; at Shanghae may equally serve I
+                        believe with slight modification- for every other port in China.</p>
+                    <p>The Junk-trade with Japan, Formosa, Siam, the Malabar coast, and the
+                        Polynesian Archipelago generally, has sensibly deteriorated here of late
+                        years, chiefly owing to the risk and losses incurred by piracy. From the
+                        same cause great portion of the native Straits’ trade at Amoy, has we know
+                        fallen into the hands of Europeans, and is carried on under the Spanish flag
+                        on Chinese account.</p>
+                    <p>The following-facts collected by a body of our merchants here for their own
+                        use, bear out this view:—</p>
+                    <p>" To the end of July in the year 1847, 4 junks only appear to have arrived
+                        here from Siam of 8 to 9,000 piculs burden, bringing pepper, sandal wood,
+                        mangrove bark, rattans, &amp;c. ; 5 from. Singapore of from 4 to 5,000
+                        piculs, bringing in addition to the same articles, ebony, bicho de mar, and
+                        sea-weed. The capture of a large Siam junk, and the detention of a Fokeen
+                        junk from Formosa with 5,000 piculs of sugar, the latter held to ransom, was
+                        currently reported at the same time. The Yang-tsze-keang for several Weeks
+                        was kept in a state of blockade for Chinese vessels, by a fleet of piratical
+                        junks.”</p>
+                    <p>“ The trade from Manila which in former years employed several junks, and
+                        latterly one annual junk, in 1847 gave employment exclusively to two Spanish
+                        vessels, the Veloz and Cebuana, which were chartered and loaded with return
+                        cargoes by Chinese, chiefly articles of Chinese use and consumption."</p>
+                    <p>The adverse influences which have</p>
+                    <p>tended so strikingly to curtail and injure</p>
+                    <p>the native maritime trade of China, nearly destroying the Straits’ trade at
+                        this port, hold out the promise of a speedy transfer of the more valuable
+                        portion of that which remains to foreign bottoms, exempted from the dangers,
+                        delays, and losses attending the voyages of the junks. The same causes which
+                        have realized the promise at Amoy may be safely counted upon here.</p>
+                    <p>In my report of the native trade of Foochow in the year 1846, I drew
+                        attention to the fact that although 1,625 junks had entered, representing
+                        some 120,000 tons of shipping, and a trade estimated at 16,000,000 dollars,
+                        it was greatly curtailed by the risk from pirates having compelled the
+                        merchants to resort to the more costly transit inland of all manufactured
+                        goods, and the more portable articles of value. “Piracy,” I observed in
+                        despatch of 3rd September, 1846, “seems on the increase, and seriously
+                        damages and curtails the whole of the coast trade. The Chinese authorities
+                        ap-pear to have little inclination and less power to put an end to this evil
+                        ; and if our trade with the Consular ports be in any degree dependent upon
+                        their pros-</p>
+                    <p>CIRCULAR. '</p>
+                    <p>The annexed translation of an official Letter from His Excellency Woo Keen
+                        Chang the officiating Taoutae advising Her Britannic Majesty’s Consul of the
+                        immediate commencement of three Bridges for the improvement of the land
+                        communication with Woosung is sent round for general information.</p>
+                    <p>Her Majesty’s Consul has for some time urged upon the Taoutae’s attention the
+                        expediency of this measure, as greatly calculated to advance the interests
+                        of the Mercantile Community, and contribute to the general convenience, and
+                        he has much pleasure in making known the result.</p>
+                    <p>British Consulate, Shanghae, 31st December, 1850.</p>
+                    <p>(Signed) Rutherford Alcock, Consul.</p>
+                    <p>True Copy,</p>
+                    <p>W. Fittock.</p>
+                    <p>To the British and Foreign Community, Shanghae.</p>
+                    <p>perity and the activity of the commercial</p>
+                    <p>transactions at each and along the coast the expediency and practicability of
+                        af-fording that protection to the native trade which the Chinese cannot
+                        themself provide, may be worthy of considera-tion.”</p>
+                    <p>Efforts have since that date been made by Her Majesty’s Government to check
+                        the piracy on the coast, and several captures it appears have been made by
+                        Her Majesty’s Ship Scout. In winter, when large numbers of fishermen and sea
+                        coast people are thrown out of employment there are few boats or men, I am
+                        led to believe, not engaged in piracy whenever the opportunity can be
+                        found.</p>
+                    <p>The only remedy, therefore, which the nature of the case would seem to admit
+                        lies in the substitution of foreign for Chinese bottoms, and the transfer of
+                        the more valuable portion of the seaboard native trade into European hands.
+                        The greatest gainers by this exchange would unquestionably be the bulk of
+                        the Chinese nation, whose maritime trade, carried on in security and with
+                        less cost, might safely be expected to take a large development</p>
+                    <p>It is true a portion of the maritime population would more or less gradually
+                        be thrown out of employment, the shipping interests might suffer by any
+                        sudden transfer of capital, and the apparent prosperity of the native trade
+                        would be diminished if estimated by the number of junks employed. But
+                        shipment of the more valuable cargoes in foreign bottoms would speedily make
+                        piracy in these seas less profitable, and thus by striking at the root of
+                        the evil render the voyages of junks, laden with more bulky and less
+                        available goods, comparatively safe. Moreover nothing is more certain than
+                        the rapid deterioration of the Chinese maritime trade. The anticipated
+                        result therefore, be it good or evil, will come under any circumstances, and
+                        all the sooner if the alternative offered by foreign freight is rejected.
+                        The only difference will be, that without the aid of our shipping the loss
+                        comes unattended by any of the substantial advantages to the nation and the
+                        shipping interests, which the em-ployment of foreign vessels in their trade
+                        must of necessity bring, in compensation for a partial and temporary
+                        evil.</p>
+                    <p>The argument is still stronger in a political sense, for if the commercial
+                        and military marine together be wholly unequal to grapple with the enemy
+                        from which the maritime trade of China has long been suffering,—against
+                        European aggression on their coasts, both the one and the other are and ever
+                        have been utterly ineffective and powerless. The Chinese Empire therefore
+                        may gain much in commercial wealth, but has nothing to lose in point of
+                        military strength. Finally, the Chinese revenue would in many respects be
+                        greatly benefited by a larger trade and less smuggling.</p>
+                    <p>The only immediate advantage to Europe consists in the profitable employment
+                        such a trade would afford for a large amount of tonnage ; but indirectly and
+                        more remotely', by making the Whole Chinese Empire conscious of their
+                        maritime weakness and dependence upon foreigners, for the safe and
+                        profitable conduct of the native trade, the absurd arrogance and conceit of
+                        this people continually endangering their relations with the civilized
+                        nations of the West, might by such peaceable means he abated, and a better
+                        feeling lend to that larger, less restricted, and more beneficial
+                        intercourse, to which all things seem inevitably to tend, whether war or
+                        commerce be destined to prepare the way.</p>
+                    <p>I have not been able satisfactorily to ascertain the relative cost of
+                        transport in Chinese and British vessels, it varies so much according to the
+                        port, the season, and the partnership arrangements with the crew, that even
+                        a close approximation is next to impossible. Assuming that it may be much
+                        less in the junks, the grievous and notorious hazard of loss, by pirates,
+                        the delay in collecting fleets large enough to venture on their doubtful
+                        ex</p>
+                    <p>pedition, and the longer time occupied by junks in their voyages, must
+                        unavoidably make it less onerous to the Chinese shippers to employ foreign
+                        vessels, if no difficulty is thrown in the way by their authorities.</p>
+                    <p>The feasibility of carrying out these views is at this moment being tested
+                        here, by the shipment on Chinese account of produce in foreign vessels. The
+                        Commissioner's récognition of the right of Chinese subjects to avail
+                        themselves freight in foreign bottoms, made public by Her Majesty’s
+                        Plenipotentiary, September, 1847, has unfortunately not reached the Taoutae
+                        through the proper official channel ; and before any final ar-rangements can
+                        be entered into in reference to the produce now in port, communication must
+                        he had with Keying-</p>
+                    <p>I assume that no question can be raised as to the right of Chinese shippers
+                        to pay the duties on their own Produce according to the tariff in force for
+                        Chinese subjects. This is not expressly stated in the Imperial
+                        Commissioner’s communication</p>
+                </div>
+                <div type="page" n="3">
+                    <p>vessels. it is difficult to discover foreign vessels, it is difficult to
+                        discover in what the privilege consiste or what concession his Excellency
+                        contemplated. </p>
+                    <p>Some difficulties of detail, if not of principle, may naturally be expected
+                        to arise before a new trade such as this will</p>
+                    <p>be brought into full operation, but</p>
+                    <p>its importance both to Great Britain and China may well demand patient and
+                        per-severing exertion, to ensure a successful</p>
+                    <p>result. Access to the whole coast and Formosa would no doubt be required for
+                        the full development of this carrying trade, but even under existing
+                        arrangement, the five Ports will furnish a large contingent</p>
+                    <p> Of foreign vessels at present employed on the coast, with the exception of a
+                        few Spanish vessels already employed by the Chinese in the Straits’ trade
+                        they may be considered as merely auxiliary to the direct European and Indian
+                        trade. They are employed to equalise the supply of British goods at the
+                        three ports, where they are in demand to convey opium up the coast and bring
+                        returns of specie, the proceeds of the latter.</p>
+                    <p>In reference to British trade with the Australian colonies, exports of timber
+                        may soon supply a deficiency hitherto felt, and the resent modification in
+                        the duty chargeable on unenumerated woods, reducing it from 10 pet cent, to
+                        5 per cent., will facilitate shipments from thence. A similar reduction in
+                        the prohibitive duty of 50 per cent, now levied on coarse China ware by our
+                        tariff would probably lead at once to an export from Shanghae alone of China
+                        ware to the value of some 300, 000 dollars per annum for the consumption of
+                        the different islands, whose traders resort to Singapore for supplies from
+                        China.</p>
+                    <p>Other products besides timber may also lie found in our Australian
+                        settlements to bring in exchange for tea, and another , link thus be added
+                        to the commercial chain of wealthy and productive islands stretching across
+                        the line from New Zealand to the China Sea. In the midst of these England
+                        has already flourishing centres of trade and free ports, to the further
+                        prosperity of which China, freed from the incubus of piracy now weighing
+                        down the native trade and enhancing the value of all articles of
+                        consumption, may be made to her own advantage to contribute.</p>
+                    <p>As to the immediate prospects of a partial transfer of the Chinese carrying
+                        trade at Shanghae, a beginning has been made by the successful exertions of
+                        Messrs. Turner &amp; Co. This house, under the able management of Mr.
+                        Stewart, to whom I am indebted for access to the fullest information upon
+                        the subject, has led the way by shipments of sugar from the south, which
+                        although probably not immediately or largely profitable to the house, is
+                        nevertheless a step in the right direction fraught with advantage if
+                        judiciously followed, as will be evident upon consideration of the following
+                        facts.</p>
+                    <p>From 300,000 to 500,000 piculs may be received as a safe estimate of the
+                        annual importation of that article into the port. This is confirmed by the
+                        extent of the operations into which it is found the sugar hongs are now
+                        inclined to enter.</p>
+                    <p>The chief places from whence it is im-ported are Formosa, the ports in the
+                        Fo-keen Province, and Canton ; the proportion from the latter port must be
+                        considerable, although there would seem to lie no doubt that the original
+                        cost of the sugar is cheaper at other sources. The first transaction entered
+                        into was the importation of 12,000 piculs from that port, and orders on
+                        native account could have been immediately afterwards obtained for 50,000
+                        more.</p>
+                    <p>The great bulk of the demand here is for brown sugar of a low quality ; and
+                        as the rapid and careful conveyance of this description, which melts and
+                        loses weight considerably on long voyages, is a great element in its
+                        successful out-turn, its import in European vessels from Hongkong or
+                        elsewhere gives it an advantage which, enables it to compete successfully
+                        with -the cheaper-bought but junk-borne sugar-</p>
+                    <p>from the other places in these seas. For this, among other reasons, the finer
+                        qualities of sugar which scarcely deteriorate imported from Hongkong appear
+                        unable at present to compete with the junk sugars from Canton or the other
+                        districts, the 5 per cent. import and export duty of our Tariff probably
+                        turning the scale against us, but shipped on Chinese account this difficulty
+                        may and I trust will disappear.</p>
+                    <p>The collateral advantages to be derived from this new trade, should it prove
+                        as successful as it promises, are numerous and important.</p>
+                    <p>1. It will furnish in proportion to its extent another means, besides opium,
+                        of laying down funds here, the difficulty attending which is one of the
+                        great drawbacks to the trade of this port. The value of the whole annual
+                        sugar import here may safely be taken at, 1,750,000 dollars. This will best
+                        be seen thus :—</p>
+                    <p>Gross value of imports in 54 vessels of 15,069 tons, in 1846 Drs.
+                        3,888,000</p>
+                    <p>Ditto exports in 50 vessels of 14,159 tons, in 1846... .6,494,000</p>
+                    <p>The surplus value of exports over im-</p>
+                    <p>port. was chiefly paid in opium, with the assistance of only half the present
+                        import of sugar. The gross imports at Shanghae might stand thus :—</p>
+                    <p>Value of miscellaneous imports in 54 vessels, 15,</p>
+                    <p>069 tons, 1846 .Drs. 3,888,000</p>
+                    <p>Ditto sugar, say 250,000 picul 15,000 tons 875,000</p>
+                    <p>Drs. 4,763,000</p>
+                    <p>2. From this estimate it will be seen that in time this single article of the
+                        carrying trade may give profitable employment to double the amount of
+                        shipping at present engaged in the Shanghae trade.</p>
+                    <p>3. Amoy and its neighbourhood is likely to furnish the cheapest sugar for
+                        this market, and could this sugar trade, in its character of simply a
+                        carrying trade from one port of China to another, be relieved of the export
+                        duty (which falls very heavily upon the lower qualities of sugar, equally 12
+                        per cent.) the influence upon the trade of Amoy would be very important and
+                        beneficial ; thus if we take—</p>
+                    <p>The gross imports at Amoy in 1846, in 9,378 tons....................Drs.
+                        775,000</p>
+                    <p>Ditto exports (not fully laden) 38,900</p>
+                    <p>The export of sugar, thence to Shanghae to the extent of only 1/6 of the
+                        present Shanghae sugar imports would engage 5,000 tons and equal in value
+                        294,000 dollars. '</p>
+                    <p>It would thus find employment for the British vessels bringing cotton from
+                        India and yam from England (the principal Amoy imports), taking them to a
+                        port, Shanghae, where they would obtained return cargoes.</p>
+                    <p>4. The trade hitherto carried on in junks between the east coast of China and
+                        the Straits having, as has been shown, a tendency to fall into the hands of
+                        Europeans, and to employ Foreign shipping, the addition of a large bulky
+                        article like sugar, of steady and assured consumption must in all
+                        probability greatly hasten this result, it being at present very difficult
+                        to lead a vessel entirely with articles of Strait’s produce suitable for one
+                        market.</p>
+                    <p>It remains to be seen whether ultimately sugar cannot be imported cheaper
+                        from Calcutta, Madras, Penang, and Singapore. But I have entered has fully
+                        into the details of the experiment as far as it has extended, because I
+                        think it furnishes the best illustration of the important results, direct
+                        and indirect, to be anticipated from the transfer of a portion of the
+                        carrying trade of the Chinese.</p>
+                    <p>Nor must it be overlooked that this branch of trade is calculated to give
+                        very considerable activity to the local trade of Hongkong, and there seems
+                        reason to believe that a portion of trade may be profitably diverted to
+                        Ningpo by laying down sugar, imported in large quantities annually, and
+                        taking in return green teas. It has been ascertained that these can be
+                        obtained at Ningpo at 10 per cent. less than sugars would be received in
+                        ex-, -change.- </p>
+                    <p>In the beginning Mssrs. Turner &amp; Co.’s operations attracted little
+                        attention and possibly were looked upon as losing transactions, but they
+                        have answered the end in view ; and if the trade be not overdone this
+                        season, its future success seems tolerably certain.</p>
+                    <p>For the fullest development of this, as of every other branch of the coast
+                        trade, as sugars are largely consumed here from numerous points of the
+                        coast, free access to the whole coast of China as I have already remarked,
+                        and especially to Formosa would be advantageous, as also a reduction of the
+                        export duty of 2m. 5c. equal to 5 per cent, upon the sugar now imported, and
+                        12 percent, upon the lower qualities. The Chinese transfer their sugar from
+                        port to port at a duty of 2 to 3 per cent. The expediency of mooting any
+                        question of this nature must however of course depend upon
+                        circumstances.</p>
+                    <p>Hitherto the carelessness of the customhouse officers has obviated the
+                        necessity for appeal upon—another question the</p>
+                    <p>decision of which may exercise considerable influence upon the carrying trade
+                        in foreign bottoms. Vessels employed exclusively in the coasting trade have
+                        two or three times been allowed to come in and leave the port without
+                        payment of tonnage dues, on production of a port clearance from Canton of
+                        some anterior date.</p>
+                    <p>It is contended by some British merchants that they are exempted under these
+                        circumstances by the XVth. clause of the French Treaty, where it is laid
+                        down that “ lors du paiement du droit précité, le Chef de la Douane
+                        délivrera au Capitaine ou Consignataire, un reçu en forme de certificat,
+                        constatant que le droit de tonnage a été intégralement acquitté : et sur
+                        l’exhibition de ce certificat au Chef de la Douane de tout afutre des Cinq
+                        Ports où il lui conviendrait de se rendre, le Capitaine sera dispensé de
+                        payer de nouveau pour son bâtiment le droit de tonnage, tout navire Français
+                        ne devant en être passible qu’une seule fois à chacun de ses voyages d’un
+                        pays étranger en Chine.”— and so long as they are merely transferring goods
+                        from one Chinese, port to</p>
+                    <p>another, they are entitled to demand free</p>
+                    <p>clearances for any vessel so long as she does not touch at any foreign port—
+                        Hongkong to wit.</p>
+                    <p>In the event of this reading being confirmed, it : will be seen that much of
+                        our coast and carrying trade may he exempted from tonnage dues, by avoiding
+                        the port of Hongkong.</p>
+                    <p>The facts referred to in this report would seem satisfactorily to bear out
+                        the inference that the maritime trade of China, though still large, is
+                        decaying in all its more valuable elements, the dread of loss and danger
+                        from pirates diverting inland all portable and more costly articles to the
+                        great enhancement of price to the consumer and probably diminution of profit
+                        to the shipper.</p>
+                    <p>The experience we have had of the eagerness with which the Chinese merchants
+                        avail themselves of foreign tonnage at Amoy, and latterly here, may be taken
+                        as good evidence of the tendency of these long-existing evils to throw no
+                        small portion of the trade into European hands.</p>
+                    <p>The beneficial result to both the Chinese people and ourselves of such
+                        partial transfer as has been contemplated does not admit of question, and
+                        seems at least as important in a political as a commercial point of
+                        view.</p>
+                    <p>It must be in every way important, therefore, to watch the first development
+                        of this carrying trade at the different ports, and zealously protect it from
+                        any unfair and covert interference on the part of the Chinese authorities,
+                        the greatest danger to which it is exposed.</p>
+                    <p>(Signed) Rutherford Alcock</p>
+                </div>
+                <div type="article">
+                    <head>History of the Conquest of China by the - Manchu Tartars, by M, Vojeu de
+                        Binnem, Lyons, 1754. ( Continued from No. 22. )</head>
+                    <p>Some days after the publication of these regulations, the whole army set
+                        forward. It passed the great wall without meeting with the least opposition,
+                        and entered into the empire of China the twenty-fifth day of the tenth
+                        moon,* that is to say towards the middle of the month of December 1629. The
+                        left wing advanced as far as Haneulkoang a tolerably strong post, which the
+                        Manchus determined to blockade. But the Governor was not a man who would
+                        permit himself to be shut up so easily. He sallied forth from the place with
+                        the best part of his garrison, and boldly charged the first Tartars he
+                        encountered. The latter stood firm, and the remainder of their troops having
+                        arrived in time to succour them, they cut the Chinese detachment to
+                        pieces.</p>
+                    <p>The lieutenant of the Governor who had remained within Haneulkoang, had no
+                        sooner learned the defeat of his General, than he cut off his hair according
+                        to the Manchu fashion, and introduced them within the fort.</p>
+                    <p>The Mandarin who commanded at Tehinkiakeou, acted in a manner still more
+                        cowardly. He went out to meet Taytsong who was at the head of the right
+                        wing, gave him up the keys of that fort, and yielded himself prisoner with
+                        all his men.</p>
+                    <p>It was not thus with the noble Man-, darin who resided at Tsunhoatcheou,§ in
+                        quality of Viceroy of one part of Petcheli. As there was no prospect that he
+                        would yield himself of his own accord Taytsong was desirous to obtain his
+                        submission by writing to him. His letter was urgent and allowed no reply,
+                        seeing how powerless they were within the city to make any protracted
+                        resistance against the assaults of the Tartars. But the unlucky Viceroy
+                        could not make up his mind to so open an act of infidelity, the example of
+                        which must be very pernicious at the present conjuncture. He took the
+                        resolution therefore to hang himself in despair, and the inhabitants of
+                        Tsunhoa immediately opened their gates.</p>
+                    <p>The greater part of the Tartar army</p>
+                    <p>united around this fortress, whence it</p>
+                    <p>made a rapid march towards Pekin. They were already pretty near to it, when
+                        Taytsong published the following manifesto, addressed to all the Chinese
+                        :—</p>
+                    <p>“ The Emperor of the Manchus, to the Mandarins, soldiers and people of
+                        China.”</p>
+                    <p>“It is not long since that we were on the confines of your empire, where we
+                        lived, as you well know, a submissive and faithful people. There we formed
+                        formerly but one peuple under Yehé, when it pleased one of your Emperors to
+                        divide it into two parts and give the best</p>
+                    <p>* The Chinese year contains twelve lunar months, each of twenty-nine and
+                        thirty days alternately; but, in order to adjust these lunations with the
+                        course of the sun, they occasionally add an intercalary month. The year
+                        always begins at the new moon the nearest to the 15th degree of Aquarius;
+                        which Is likewise the commencement of the Chinese Spring.</p>
+                    <p> Haneulkoang is situated on the gulf of Leaotong or of Petcheli, in the 38
+                        deg. 20 m. of North Latitude and in the 135 deg. 22 m. of Longitude (East of
+                        Paris).</p>
+                    <p> *This post is not to lie confounded with the celebrated passage of
+                        Chankiakeou, too distant for Taytsong to have moved against that
+                        station.</p>
+                    <p>* Tsunhoa in Petcheli, is a city of thé second order, as the final syllable
+                        Tcheou signified, its situation is towards the. 40 deg. of North Latitude,
+                        and the 185 deg. 49 m. of Longitude (East of Paris....)</p>
+                    <p>to Yehe it is one of the grievances of which we have frequently complained,
+                        without ever having obtained redress. Thereupon we appealed to Heaven,
+                        before the beginning of the war; and Heaven has approved it, as you see, in
+                        giving us possession of the whole country that extends to the east of the
+                        river. ”</p>
+                    <p>“ Taytsou, my august father, content with having achieved this conquest, and
+                        breathing forth only peace, wrote to your Court** which did not deign to
+                        reply to his letter. War having recommenced, Heaven has continued to favour
+                        us up to the present time : whatever is situated to the west of the river,
+                        has fallen into our hands. Whatever advantage We have gained, peace has been
+                        the object of My wishes. I have neglected nothing to establish peace with
+                        you : as my letters testify. Not only has no notice been taken of them ; but
+                        We have been contemned, even to indignity, whereupon, after having again
+                        addressed Heaven, I again took up arms ; and by the success which has
+                        attended them, your Court ought to allow, that it took a very wrong
+                        part.”</p>
+                    <p>“ You Mandarins, soldiers and people of China, know that they amongst you who
+                        will submit willingly to me, shall receive more honours and riches, than
+                        they ever enjoyed under the dynasty of Ming. But likewise all they who shall
+                        refuse to submit, shall be put to death without mercy: and do not you lay
+                        the blame to me ; it is not I who will condemn them to death, it is your
+                        master and his Council.”</p>
+                    <p>“ They reproach me that a Prince of a State so small as mine, never ought to
+                        arrogate to himself the title of Ti (Emperor), but I reply that the Leao,
+                        the Kin and the Yuen originally possessed but a very small country,that
+                        they, nevertheless, bore the title of Ti, and made themselves masters of
+                        China wholly or in part. The founder even of the dynasty of the Mings, who
+                        was he ? A Hochang Bonze* whom Heaven willed should be raised to the throne:
+                        for Heaven raises whomsoever he pleases. Who knows, whether He has not
+                        chosen me to become one day your master, and to succeed to the Princes of
+                        Ming?"</p>
+                    <p>( To be continued. )</p>
+                    <p>* This people of Yehé can only be a remnant of the ancient Kingdom of Hya
+                        destroyed by Genghiskhan. It was situated to the north of the province of
+                        Chensi beyond the great wall.</p>
+                    <p>* The river here mentioned is the Lyau, which divides Leaotong into two
+                        parrs. Its mouth in at the head of the gulf of Petcheli or of Leaotong.</p>
+                    <p>** This does not agree with what is said at the beginning of this history, if
+                        one does not suppose that Taytsou wrote twice to make peace ; for at the
+                        time of his first letter, he had not conquered the eastern part of
+                        Leaotong.</p>
+                    <p>** The name of Bonze means generally the priests and other ministers of the
+                        idolatrous worship both of China and Japan. They mostly live in common.
+                        There are also Bonzesses who live in houses apart from the men ; who however
+                        keep within their precincts lint indifferently. All the Bonzes are either
+                        Lamas or Ho-changs. The Lamas came originally from Tartary, and the Hochangs
+                        from India, both profess to worship the idol Fo. The hierarchical order is
+                        more sensible a-</p>
+                    <p>mongst the Lamas than among the Hochangs.</p>
+                </div>
+                <div type="article">
+                    <head>BALI. ( From the Journal of Indian Archipelago, Vol. 4 No. 9. ) (
+                        Continued from No. 18)</head>
+                    <p>Population,—Bali contains about 1,000, 000 inhabitants, and as they arc
+                        remarkable for their industrious habits and the comparative advances they
+                        have made in agricultural and manufacturing arts, must be considered as the
+                        most important of all the independent nations of the Indian Archipelago. The
+                        proportion of people to the square mile is stated by Dutch authorities to be
+                        double in amount to that of Java. Although the island is divided into
+                        several petty states under different chiefs, a certain degree of combination
+                        is created by their all acknowledging the supremacy of the Dewa Agong of
+                        Klon-kong, the royal family of which state is said to be lineally descended
+                        from an ancient chief whose authority was formerly paramount throughout the
+                        island, and indeed extended to the western side of Lombok.</p>
+                    <p>The Balinese are a purely agricultural people, and shew a decided aversion to
+                        a</p>
+                    <p>sea-faring life, never venturing abroad on trading voyages, but disposing of
+                        the produce of their industry to the numerous</p>
+                    <p>strangers whom it serves to attract. In their physical characteristics they
+                        are distinct from all other tribes of the Indian Archipelago with the
+                        exception of those of the neighbouring island Lombok, that is to say those
+                        of Balinese origin, for the Sasak, or aborigines of Lombok, are evidently
+                        identical with the Bugis, Molucca:, islanders, and other Malayu-Polynesian
+                        tribes of the Archipelago. The Balinese are fairer in complexion, and of
+                        more lofty stature, than either the Bugis or Javanese, and the stiff, wiry
+                        nature of their hair, more resembles that of the Mongolians of continental
+                        Asia than of any other people. These circumstances, coupled with the fact of
+                        the great bulk of the population professing the Hindu religion, has given
+                        rise to many speculations as to the origin of their civilization. The same
+                        religion is known to have formerly spread over Java, and is supposed to have
+                        been introduced from the Indian peninsula, which was probably the case; but
+                        Balinese civilization has evidently been derived from a different source, as
+                        the accounts of all travellers who have visited tlie island from Java, teem
+                        with details of the striking pointe of difference in the characteristics of
+                        the two people. From opportunities I have had of comparison, I am inclined
+                        to believe that a very close connection formerly existed between the people
+                        of Bali and Siam. In their physical characteristics the resemblance is
+                        almost perfect, in fact the excellent sketch of a Balinese in Mr. Crawfurd’s
+                        History of the Indian Archipelago, even to the mode and arrangement of the
+                        dress, would form a perfectly correct representation of one of the lower
+                        class in Siam. The style of the houses in Bali, surrounded by walls of brick
+                        ;—the form of religion ;—the custom of writing on the leaves of the lontar
+                        palm by means of an iron style; —the mode of disposing of deceased princes
+                        by burning the bodies on lofty piles ;—the entire system of agriculture,
+                        even to the maintaining large herds ol ducks to drive over the cropped paddy
+                        fields, and whose eggs are collected and salted to form an article of export
+                        ;—the custom of both sexes leaving the body from the waist upwards
+                        uncovered, (except on occasions of going abroad, where the females wear a
+                        salendong or scar thrown loosely over the shoulders and across the breast),
+                        are all identical with those of the Siamese. The court ceremonies, also,
+                        very closely correspond The crawling motion by which even a chief approaches
+                        his sovereign, first casting loose a long piece of cloth attached to his
+                        girdle as a train, is practiced by both people. The Balinese princes are
+                        unable to obtain white elephants to grace their studs like the Kings of
+                        Siam, but they adopt as substitutes the albino variety of the buffalo, a
+                        pair of which is attached to nearly every court.</p>
+                    <p>Whatever may have been their origin, there can be no doubt that they are a
+                        highly intelligent and improvable people, and if they succeed in maintaining
+                        their independence, will no doubt assume a high position among the petty
+                        nations of the Archipelago. As Islamism, although it has made some progress
+                        in the sea ports,</p>
+                    <p>has by no means obtained an ascendancy, the Balinese are the more inclined to
+                        seek the friendship of Europeans. The slave trade formerly existed in Bali
+                        to an enormous extent, but since the Dutch have made the transport of slaves
+                        by sea illegal, it has nearly ceased. Great numbers were exported to Java,
+                        and even to the Mauritius. At the former place many of the females became
+                        the wives of Chinese, who seem to prefer connecting themselves with Balinese
+                        than with any other of the island races, (To be continued.)</p>
+                </div>
+                <div type="item">
+                    <head>TABLE Showing the Import and Export Duties on British Trade, and Tonnage
+                        Dues on British Vessels; paid to the Chinese Government, at the Port of
+                        Shanghae during the following Year, 1843 a 1849. Duties. Tonnage Dues. Total
+                        Taels</head>
+                    <p><table rows="8" cols="4">
+                            <row>
+                                <cell>1843</cell>
+                                <cell>24,101-9-9-0</cell>
+                                <cell>985-0-0-0</cell>
+                                <cell>25,086-9-9-0</cell>
+                            </row>
+                            <row>
+                                <cell>1844</cell>
+                                <cell>138,595-5-7-2</cell>
+                                <cell/>
+                                <cell>138,595-5-7-2</cell>
+                            </row>
+                            <row>
+                                <cell>1845</cell>
+                                <cell>444,668-5-7-9</cell>
+                                <cell>7,114-4-0-0</cell>
+                                <cell>451,782-9-7-9</cell>
+                            </row>
+                            <row>
+                                <cell>1846</cell>
+                                <cell>483,658-5-8-8</cell>
+                                <cell>5,349-9-0-0</cell>
+                                <cell>489,008-4-8-8</cell>
+                            </row>
+                            <row>
+                                <cell>1847</cell>
+                                <cell>561,253-5-9-4</cell>
+                                <cell>6,126-3-0-0</cell>
+                                <cell>567,379-8-9-4</cell>
+                            </row>
+                            <row>
+                                <cell>1848</cell>
+                                <cell>456,384-7-8-4</cell>
+                                <cell>5,959-5-0-0</cell>
+                                <cell>462,344-2-8-4</cell>
+                            </row>
+                            <row>
+                                <cell>1849</cell>
+                                <cell>603,480-4-1-7</cell>
+                                <cell>9,580-9-0-0</cell>
+                                <cell>613,061-1-3-1-7</cell>
+                            </row>
+                            <row>
+                                <cell>Total</cell>
+                                <cell>2,712,143-5-2-4</cell>
+                                <cell>35,116-0-0-0</cell>
+                                <cell>2,747,259-5-2-4</cell>
+                            </row>
+                        </table></p>
+                </div>
+                <div type="item">
+                    <head>ATMOSPHERICAL CHAngES, During the Week ending 2d January, 1851.</head>
+                    <p>The last week- has been one of beautiful weather, although much warmer than
+                        the preceeding week. The average temperature has been 44° while that of the
+                        corresponding week last year was 41.2. During the last few days there has
+                        been no frost.</p>
+                    <p>N.B. -In last week's report there was an evident typographical error: instead
+                        of the temperature exceeding</p>
+                    <p>that of the preceeding year it was lower on an average by 8.7 ; as an
+                        inspection of the table would at once show.</p>
+                    <p>TABLE MEAN DAILY READINGS OF BAROMETER, THERMOMETER, ANEMOMETER, and
+                        OMBROMETER</p><p><table cols="11">
+                            <row>
+                                <cell cols="2">December</cell>
+                                <cell cols="2">Barometer</cell>
+                                <cell cols="2">Thermometer</cell>
+                                <cell cols="2">Wind</cell>
+                                <cell cols="3">Rain</cell>
+                            </row>
+                            <row>
+                                <cell>Day of Month</cell>
+                                <cell>Day of Week</cell>
+                                <cell>1850</cell>
+                                <cell>1849</cell>
+                                <cell>1850</cell>
+                                <cell>1849</cell>
+                                <cell>1850</cell>
+                                <cell>1849</cell>
+                                <cell cols="2">0.00</cell>
+                                <cell>0.00</cell>
+                            </row>
+                            <row>
+                                <cell>27</cell>
+                                <cell>F.</cell>
+                                <cell>30.48</cell>
+                                <cell>30.60</cell>
+                                <cell>38.5</cell>
+                                <cell>37</cell>
+                                <cell>W. to N.W.</cell>
+                                <cell>N. by W.</cell>
+                                <cell cols="2">0.00</cell>
+                                <cell>0.00</cell>
+                            </row>
+                            <row>
+                                <cell>28</cell>
+                                <cell>S.</cell>
+                                <cell>30.46</cell>
+                                <cell>30.52</cell>
+                                <cell>42.5</cell>
+                                <cell>36</cell>
+                                <cell>N.E.</cell>
+                                <cell>W. to S.S.E.</cell>
+                                <cell cols="2">0.00</cell>
+                                <cell>0.00</cell>
+                            </row>
+                            <row>
+                                <cell>29</cell>
+                                <cell>Su.</cell>
+                                <cell>30.41</cell>
+                                <cell>30.28</cell>
+                                <cell>42.5</cell>
+                                <cell>44</cell>
+                                <cell>N.E.</cell>
+                                <cell>S.W. to W.</cell>
+                                <cell cols="2">0.00</cell>
+                                <cell>0.00</cell>
+                            </row>
+                            <row>
+                                <cell>30</cell>
+                                <cell>M.</cell>
+                                <cell>30.36</cell>
+                                <cell>30.48</cell>
+                                <cell>42.5</cell>
+                                <cell>39</cell>
+                                <cell>S.</cell>
+                                <cell>W.N.W.</cell>
+                                <cell cols="2">0.00</cell>
+                                <cell>0.00</cell>
+                            </row>
+                            <row>
+                                <cell>31</cell>
+                                <cell>Tu.</cell>
+                                <cell>30.35</cell>
+                                <cell>30.40</cell>
+                                <cell>47.5</cell>
+                                <cell>41</cell>
+                                <cell>S.W.</cell>
+                                <cell>S.</cell>
+                                <cell cols="2">0.00</cell>
+                                <cell>0.00</cell>
+                            </row>
+                            <row>
+                                <cell cols="2">January 1851</cell>
+                                <cell>1851</cell>
+                                <cell>1850</cell>
+                                <cell>1851</cell>
+                                <cell>1850</cell>
+                                <cell>1851</cell>
+                                <cell>1850</cell>
+                                <cell cols="2">1851</cell>
+                                <cell>1850</cell>
+                            </row>
+                            <row>
+                                <cell>1</cell>
+                                <cell>W.</cell>
+                                <cell>30.32</cell>
+                                <cell>30.19</cell>
+                                <cell>47.5</cell>
+                                <cell>56</cell>
+                                <cell>S.W.</cell>
+                                <cell>S.</cell>
+                                <cell cols="2">0.00</cell>
+                                <cell>0.00</cell>
+                            </row>
+                            <row>
+                                <cell>2</cell>
+                                <cell>Th.</cell>
+                                <cell>30.27</cell>
+                                <cell>30.49</cell>
+                                <cell>52.5</cell>
+                                <cell>36</cell>
+                                <cell>S.</cell>
+                                <cell>N.N.W. to N.W. </cell>
+                                <cell cols="2">0.00</cell>
+                                <cell>0.05</cell>
+                            </row>
+                            <row>
+                                <cell/>
+                                <cell/>
+                                <cell/>
+                                <cell/>
+                                <cell/>
+                                <cell/>
+                                <cell/>
+                                <cell/>
+                                <cell>Total</cell>
+                                <cell>0.00</cell>
+                                <cell>0.05</cell>
+                            </row>
+                        </table></p>
+                </div>
+
+
+
+            </div>
+
+
+
+
+        </body>
+    </text>
+</TEI>
