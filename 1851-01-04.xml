@@ -1240,9 +1240,9 @@
                         to pay the duties on their own Produce according to the tariff in force for
                         Chinese subjects. This is not expressly stated in the Imperial
                         Commissioner’s communication</p>
-                </div>
+                </div></div>
                 <div type="page" n="3">
-                    <p>vessels. it is difficult to discover foreign vessels, it is difficult to
+                    <div type="article"><p>vessels. it is difficult to discover foreign vessels, it is difficult to
                         discover in what the privilege consiste or what concession his Excellency
                         contemplated. </p>
                     <p>Some difficulties of detail, if not of principle, may naturally be expected
@@ -1419,7 +1419,7 @@
                         any unfair and covert interference on the part of the Chinese authorities,
                         the greatest danger to which it is exposed.</p>
                     <p>(Signed) Rutherford Alcock</p>
-                </div>
+                    </div>
                 <div type="article">
                     <head>History of the Conquest of China by the - Manchu Tartars, by M, Vojeu de
                         Binnem, Lyons, 1754. ( Continued from No. 22. )</head>
@@ -1792,14 +1792,7 @@
                             </row>
                         </table></p>
                 </div>
-
-
-
-            </div>
-
-
-
-
-        </body>
+                </div>
+</body>
     </text>
 </TEI>

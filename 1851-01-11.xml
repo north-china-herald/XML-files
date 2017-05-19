@@ -166,7 +166,8 @@
                         TERMS, BISCUITS REFIRED,</p>
                     <p>&amp;£., &amp;C., &amp;C.</p>
                 </div>
-                <div type="advert"><head>Just Recieved and For Sale by the Undersigned</head>
+                <div type="advert">
+                    <head>Just Recieved and For Sale by the Undersigned</head>
                     <p>A fine collection of OILMAN’S STORES, shipped by Hesketh Davis &amp; Co.,
                         London, consisting of—</p>
                     <p>PICKLES, Assorted, in Pints and Quarts.</p>
@@ -203,7 +204,8 @@
                     <p>Ox’s TONGUES.</p>
                     <p>Fine York HAMS, &amp;c., &amp;c.</p>
                     <p>EDWARD HALL.</p>
-                    <p>Shanghae, 10th January, 1851.</p></div>
+                    <p>Shanghae, 10th January, 1851.</p>
+                </div>
                 <div type="advert">
                     <head>For Sale</head>
                     <p>P. F. RICHARDS &amp; Co.,</p>
@@ -341,7 +343,8 @@
                     <p>Charles J.F. Stuart,</p>
                     <p>Manager.</p>
                     <p>Hongkong, 5th November, 1850</p>
-                </div><div type="item">
+                </div>
+                <div type="item">
                     <head> PRESENT PRICES OF PROVISIONS SUPPLIED AT THE SHANGHAE MARKET.</head>
                     <p><date>Shanghae, 11th January, 1851</date></p>
                     <p>
@@ -633,9 +636,10 @@
                         hard frost. The average temperature of the week has been very nearly that of
                         the corresponding week of last year: in 1850 the mercury standing at 38.6°,
                         and during the past week at 39.2°.</p>
-                    
+
                     <p>TABLE MEAN DAILY READINGS OF BAROMETER, THERMOMETER, ANEMOMETER, and
-                        OMBROMETER</p><p><table cols="11">
+                        OMBROMETER</p>
+                    <p><table cols="11">
                             <row>
                                 <cell cols="2">January</cell>
                                 <cell cols="2">Barometer</cell>
@@ -766,7 +770,9 @@
                             </row>
                         </table></p>
                 </div>
-                <div type="item"><head>Chinese Tariff of 1786. (Continued from No. 14</head><head>Scale of Duties</head>
+                <div type="item">
+                    <head>Chinese Tariff of 1786. (Continued from No. 14</head>
+                    <head>Scale of Duties</head>
                     <table rows="27" cols="7">
                         <head>Wood, and Bamboo Articles</head>
                         <row>
@@ -1295,9 +1301,9 @@
                             <cell>catties</cell>
                             <cell>0</cell>
                             <cell>0</cell>
-                            
-                                <cell>4</cell>
-                            
+
+                            <cell>4</cell>
+
                             <cell>0</cell>
                         </row>
                     </table>
@@ -1778,12 +1784,563 @@
                             <cell>0</cell>
                             <cell>0</cell>
                         </row>
-                    </table></div>
-
+                    </table>
+                </div>
+            </div>
+            <div type="page" n="2">
+                <div type="item">
+                    <head>The North China Herald</head>
+                    <p>NOTICE.—During the restoration of Trinity Church, Divine Service is held in
+                        the Godown of J. White, Esq., Wei-ke. Hours of Service 11 o'clock a.m. and 3
+                        p.m.</p>
+                    <p>JOHN HODSON,</p>
+                    <p>Officiating Minister.</p>
+                </div>
+                <div type="item">
+                    <head>The North China Herald</head>
+                    <p>NOTICE.—Public Worship is held in the new School-room, on the premises of the
+                        “London Missionary Society,” every Sabbath, at half-past 9 A..</p>
+                    <p>Shanghae, December 5th, 1850.</p>
+                </div>
+                <div type="item">
+                    <head>The North China Herald</head>
+                    <p>BIRTH.—On the 10th inst, at the Victoria Hotel, Shanghae, Mrs C. M.
+                        Donaldson, of a Daughter.</p>
+                    <p>DEATH.—In Shanghae; on Saturday, the 3rd instant, at the house of Messrs.
+                        Wolcott, Bates &amp; Co., Captain C. H. Cooksey, of the American Barque
+                        Huntingden.</p>
+                    <p>DEATH.—10th inst, W. F. Robinson, Esq., of Salem Mass., U. S. A., aged 35
+                        years. —</p>
+                </div>
+                <div type="item">
+                    <head>Latest Dates</head>
+                    <p><table rows="7" cols="4">
+                            <row>
+                                <cell>England</cell>
+                                <cell>24th Oct. </cell>
+                                <cell>Port Philip, </cell>
+                                <cell>17th Sept. </cell>
+                            </row>
+                            <row>
+                                <cell>Calcutta</cell>
+                                <cell>
+                                    <p>7th Nov.</p>
+                                </cell>
+                                <cell>Sydney</cell>
+                                <cell>13th Oct.</cell>
+                            </row>
+                            <row>
+                                <cell>Bombay</cell>
+                                <cell>
+                                    <p>19th Nov.</p>
+                                </cell>
+                                <cell>Amoy</cell>
+                                <cell>30th Nov.</cell>
+                            </row>
+                            <row>
+                                <cell>
+                                    <p>Madras,</p>
+                                </cell>
+                                <cell>
+                                    <p>14th Nov.</p>
+                                </cell>
+                                <cell>Hongkong</cell>
+                                <cell>21st Dec.</cell>
+                            </row>
+                            <row>
+                                <cell>Singapore</cell>
+                                <cell>7th Dec.</cell>
+                                <cell>Ningpo</cell>
+                                <cell>14th Dec.</cell>
+                            </row>
+                            <row>
+                                <cell>Penang</cell>
+                                <cell>
+                                    <p>1st Dec.</p>
+                                </cell>
+                                <cell>
+                                    <p>New York,</p>
+                                </cell>
+                                <cell>13th Oct.</cell>
+                            </row>
+                            <row>
+                                <cell>Batavia</cell>
+                                <cell>25th Nov.</cell>
+                                <cell>
+                                    <p>San Francisco,</p>
+                                </cell>
+                                <cell>8th Nov.</cell>
+                            </row>
+                            <row>
+                                <cell>Manila</cell>
+                                <cell>
+                                    <p>2d Dec.</p>
+                                </cell>
+                                <cell>
+                                    <p>Sdwich. Islands</p>
+                                </cell>
+                                <cell>4th Nov</cell>
+                            </row>
+                        </table></p>
+                </div>
+                <div type="article">
+                    <head>John Dugdale</head>
+                    <p>The topic of the week in our little community, has been the detention of the
+                        John Dugdale, on the ground of some part of the Tea cargo not having paid
+                        the legal duty. We arc happy to have in our power to lay before our readers
+                        the detail of this occurrence and the correctness of which we think cannot
+                        he contested, our information being derived from parties wholly cognisant of
+                        the circumstances and whose characters will guarantee full credence to the
+                        statement. The cargo of the John Dugdale, consists wholly of Tea shipped by
+                        four parties, the duty receipts preparatory to clearing the vessel were
+                        forwarded to her consignees on Saturday last, and on reference thereto they
+                        found, that the vessel was about to clear with a cargo of about half the
+                        quantity she had taken on her previous voyage. It should he mentioned that
+                        no part of the cargo was shipped by the Consignees of the vessel. The Port
+                        Clearance had been granted and forwarded to the Consul when the Consignees
+                        of the vessel arrived at the Consulate and laid an information against the
+                        several shippers by this vessel alleging that they had one and all smuggled
+                        the greater part of the cargo and demanded the Consul’s interference in
+                        order to visit upon the offenders the full penalties of their wrong
+                        doing—the Consignee, moreover, lodged a formal protest against any damages
+                        oc-curing to the ship in consequence of the legal duties not having been
+                        paid, and late in the same evening, the several shippers were served with a
+                        notice that they were held responsible for any losses arising from detention
+                        of the ship, by any irregularity in payment of duties. No other course
+                        consistent with his official duty could be pursued by Her Majesty's Consul
+                        than that adopted by him on this occasion ; he immediately communicated with
+                        the Taoutai and returned the grand chop, and as the vessel had been
+                        permitted in the meantime to drop down below the anchorage, a messenger was
+                        sent to seal the hatches and she was ordered back off the Chinese
+                        Custom-house.</p>
+                    <p>On reference to the manifest as given by the Consignees to the Consul, it was
+                        found (after the grand chop had been issued) that there was a deficiency of
+                        2,000 chests on which no duty whatever had been paid ; no intimation of this
+                        discrepancy had been hinted at or pointed out by the Consignee to the party
+                        interested, who on ascertaining the omission applied on the</p>
+                    <p>earliest occasion to the Custom-house and tendered "the duty"; it was refused
+                        on the plea that the accounts of the John Dug-dale had been closed, and the
+                        vessel "had cleared. In the meantime the Consul had been in communication
+                        with the Taoutai and it had been intimated to the parties concerned, that
+                        the whole cargo would-be landed and re-weighed and such portion -thereof on
+                        which it should appear that the duty had been evaded, should be confiscated
+                        by the Chinese authorities.Subsequent-ly,—thanks to the judicious
+                        intervention of the Consul, it was determined not to discharge the cargo,
+                        and it was deemed by him, that this was not a case which merited the
+                        infliction of the penalties arising under the Imperial treaty, seeing that
+                        the laxity or corrupt connivance of the Customs-house officers has led to
+                        such a state, that non-payment of the full duty upon Teas has now become the
+                        custom of the port ; so much so, that even in this case of the John Dugdale
+                        (with the deficiency of</p>
+                    <p>2,000 chests on which no duty whatever was paid and others in which one sixth
+                        and on third only was paid), still paid in respect of her tonnage, more
+                        export</p>
+                    <p>duty than 3/4ths of the vessels recently</p>
+                    <p>We feel certain that our readers will heartily approve of the Consular
+                        decision in this case, which was, that the shippers should declare the
+                        respective quantities shipped and be amerced by the infliction of double
+                        duties on the quantity not previously paid, and a further fine for their
+                        irregularity, of 100 dollars each, to the Queen.</p>
+                    <p>We sincerely hope that this Consular decision will be accepted as a warning
+                        for the future, and we think we know enough of the right-mindedness and
+                        correct feeling of our readers to say that the great lenity accorded in this
+                        instance to the offending parties, will not be construed into the belief
+                        that the Chinese authorities will be as apathetic and indifferent as they
+                        have been of late, to the daily (we might say hourly) systematic evasions,
+                        of the legal duties both in imports and exports,—sorry should we be, that
+                        such a state of things, should permanently obtain in this recent but rising
+                        port as has disgraced Canton from time immemorial. We are assured by the
+                        best informed of our friends that it is not only inexpedient, but absolutely
+                        expensive in its results to the shipper ; as it has been satisfactorily
+                        proved that any evasion of the duties has led to a more than corresponding
+                        augmentation of the cost laid down in England.</p>
+                    <p>We shall on a future occasion return to this subject, one of prominent
+                        interest, and in the proper understanding of which the best interests of
+                        this port, moral and social, are most intimately connected.</p>
+                    <p>Since the foregoing was written we learn that the duties and fines have been
+                        paid and the John Dugdale has proceeded on her voyage. If all Consignees of
+                        vessels will have the high moral courage to inform against the
+                        irregularities in other people’s shipments, there will soon be an end to all
+                        illicit trading.</p>
+                </div>
+                <div type="article">
+                    <head>Lady Mary Wood</head>
+                    <p>The Lady Mary Wood sailed for Hongkong on Sunday last ; and currency has been
+                        given to a report that this will be her last voyage, as the Peninsular and
+                        Oriental Company propose discontinuing the Shanghae line, unless the
+                        mercantile community come forward with a standing subsidy in its aid.- It
+                        may indeed be the Steamer’s last voyage, as we believe she is required for
+                        some other of the Company’s branch lines ; but that this body contemplates
+                        abandoning its footing in Shanghae, whatever may be the response of the
+                        public to this novel demand, is a result of which we are more than
+                        sceptical. To do so would be at once to call competitors into the field,
+                        either English or American, who in the process of time might follow the
+                        expansive policy of the Company itself ; and far from contenting themselves
+                        with cast off coasting branches, seek a share of the profits attached to
+                        main lines and introduce a wholesome rivalry into the whole scheme of
+                        Oriental Steam Navigation. It may require cautious consideration before the
+                        Company extends its operations to any given locality ; but once established
+                        there we are much mistaken if it wilL see fit to abandon whatever prospects
+                        may have been entertained and whatever progress made, unless indeed in the
+                        improbable event of the enterprise turning out so worthless and hopeless,
+                        that no sane speculator would think of stepping into the vacated
+                        position.</p>
+                    <p>But it is alleged that the Company are losing money by the extension of their
+                        line to Shanghae. If this really be the case, we regret it sincerely ; but
+                        can hardly admit that the question is thus dis-posed of. The experiment has
+                        scarcely existed for a year, and twelve months are an insufficient time to
+                        prove whether it be profitable or not. Nothing is more certain than that in
+                        the great facilities which modern science has afforded to communication and
+                        locomotion, their invariable tendency has been not only to develope but to
+                        create traffic; and it is from the new sources thus opened up that these
+                        costly enterprizes have derived in</p>
+                    <p>a great measure their remuneration. Now we are more hopeful of the destinies
+                        of this port than to imagine for a moment we have yet fathomed the extent of
+                        its capabilities. Every year increases the magnitude of its stated trade,
+                        and every year is developing something new in that trade’s special features.
+                        Every year consequently is rendering it more fitted to support effectively a
+                        rudiment of Steam Navigation on the Chinese Coast and to remunerate better
+                        by the unforced expansion of commerce the pioneers of such an undertaking.
+                        Nor is it to be forgotten that in the particular operations of the
+                        Peninsular and Oriental Company the great value of the Shanghae branch is as
+                        a feeder to the main lines ; and in a comprehensive view of its pecuniary
+                        results should be estimated not only the limited earnings of the coasting
+                        Steamer but the returns from passengers and freight transferred by it to the
+                        Indian and English vessels, neither of which in many instances would have
+                        gone forward, but for the facilities afforded by a Steam communication
+                        throughout. If in the combination of these ultimate results with its. direct
+                        and immediate returns the Shanghae line is still a failure and likely to
+                        remain so,</p>
+                    <p>we confess that we are much surprized at</p>
+                    <p>the event.</p>
+                    <p>At this juncture, then, the Company institutes a demand of one thousand
+                        dol-lars or so per month from the mercantile body here. It is true that no
+                        reason is given, and that the exaction is delicately regarded as a postage
+                        charge for the conveyance of letters ; but there can be no mistaking its
+                        unusual character. We presume the step has been taken in pursuance of
+                        instructions from head quarters; for the Company’s Agents in China could, we
+                        are satisfied, have given them much better advice as to what would he
+                        palatable to their supporters here, and beneficial to the best interests of
+                        their own body. We know not whether a similar demand will he made upon
+                        merchants at Hongkong, the other terminus of the line ; but at both places
+                        the matter must very soon be settled in one way or the other. We cannot
+                        suppose that either community will view with much complacency this attempt
+                        to tax them by a monthly subscription, though it may be difficult to decide
+                        whether they should seriously resent it or feel inclined rather to be amused
+                        at the originality of the idea. Certainly, of all the paltry expedients to
+                        which virtue in distress can be reduced we think the most undignified
+                        spectacle is that of a great commercial incorporation "sending round the
+                        hat,” as it has been proposed to do in the present case by the Peninsular
+                        and Oriental Company.</p>
+                    <p>Let this undertaking, like every other, stand upon its own basis. If the line
+                        is not renumerating let the Company apply to Government for its assistance
+                        by a Post Office contract for the mails, as has been done in other instances
+                        all over the globe ; and if Government is obdurate to a well authenticated
+                        representation of this nature, let the concern be decently abandoned. But we
+                        can only regard the principle of a direct (and as far as lies in the power
+                        of a private body, an enforced) assessment-upon the public of any locality
+                        for the support of an undertaking in which they are but indirectly concerned
+                        as inherently vicious. What would be thought at home of the modesty of a
+                        railway company in difficulties which should seek to levy contributions for
+                        its own private advantage on every parish, through which its line might pass
+                        under a threat of stopping the conveyance of parcels or some other branch of
+                        traffic ? Or what of an insolvent trader who should send a circular to his
+                        creditors that unless they contributed so much a month to keep him afloat he
+                        would be under the unfortunate necessity of failing outright? We are
+                        certainly indebted to the Peninsular and Oriental Company for that more
+                        intimate connection with Europe which is the natural result of a direct
+                        Steam Navigation thence ; but we do not think that body has always been
+                        actuated by the most liberal sentiments or given effect to these in the most
+                        liberal way. It should occasion little surprize therefore if their present
+                        appeal to the mercantile body meets with a tardy and unwilling response ;
+                        and we await the issue of the proposal at all events with some curiosity. So
+                        far arc we, however, from regarding with apprehensions of its success the
+                        extension of Steam Navigation to this quar-ter, that we conceive in a very
+                        short time nothing less will meet the requirements of Shanghae than making
+                        it the terminus of the Bombay line, and Hongkong only the port of call. Drug
+                        will then be brought on without the necessity of transhipment with its
+                        attendant delay and risk, and we shall enjoy the advantage of a Steamer for
+                        each incoming and each outgoing mail. It might he well for the Peninsular
+                        and Oriental Company to anticipate this time, at least to facilitate its
+                        realization, certainly not to interpose such clumsy obstructions as that
+                        which we have noticed to the enlarged spirit of commercial enterprize and
+                        liberal dealing which should accompany the magnitude of their
+                        operations.</p>
+                </div>
+                <div type="advert">
+                    <head>The Tea Trade</head>
+                    <p>The article we give on the " Tea Trade,” is part of a series of articles
+                        which appeared in Hunt's Merchants Magazine, and was afterwards published in
+                        a pamphlet form at New York.</p>
+                </div>
+                <div type="item">
+                    <head>Pekin Reporter</head>
+                    <p>PEKIN REPORTER.</p>
+                    <p>SUMMARY and EXTRACTS. No. 118, Oct. 22nd and 23rdt 1850.</p>
+                    <p>Decrees and Rescripts.</p>
+                    <p>None of the ten Decrees given in this number treat on any subject worthy of
+                        notice; we therefore pass on to the memorials, of which there are two,
+                        addressed to His Majesty severally by Keying and by Lew Yunko, (Viceroy of
+                        Fuhkeèn and Che-keang. )</p>
+                    <p>Keying entreats His Majesty to permit him to retire from his office promising
+                        when totally restored to health to “ lay his head in the mire at “ the
+                        Palace Gate, and crave to be again employed.” He thanks the Emperor for
+                        leave of absence which has been repeatedly granted him, and for the Gracious
+                        attention which has been vouchsafed to him in his ailments, and mourns that
+                        diligent exertion in the sphere of duty allotted to him, (which is the only
+                        means at his disposal of showing his ferment gratitude,) is totally out of
+                        his power. He speaks of the grievous ulcer that broke out in his neck, while
+                        on service at Tsing-keang in the spring of last year, and states that his
+                        medical adviser is of opinion that the constant drain of such a chronic
+                        sore, is sufficient to undermine his constitution and unfit him for all</p>
+                    <p>exertion either of mind or body. He therefore</p>
+                    <p>as a last resource, sends his memorial by the hand of his son, and beseeches
+                        that the Imperial Glance may be bestowed thereon.</p>
+                    <p>Memorials.</p>
+                    <p>Lew Yunko of Fuhkeen and Chekang writes as follows :—</p>
+                    <p>"Hangchang, Intendant of Circuit of Hinghwa,</p>
+                    <p>Tseuenchow and Yungchun, (Taoutai at Amoy,) applied for leave last year to
+                        visit the Capital and obtain an audience, and afterwards falling ill at
+                        Peking, he left the service altogether. In consequence of which I received
+                        Your Majesty's instructions, directing me, as the post was one of extreme
+                        importance, to select an officer to fill the vacancy from among the whole
+                        number of Intendants in the Province, and to appoint Chang Hcyu to the
+                        office for the time being.”</p>
+                    <p>“ The Intendant of Hinghwa, Tseuenchow, and Yngchun is I find placed over two
+                        primary departments and one secondary, comprising a tract of country
+                        situated in the southernmost extremity of Fuhkeen, and inhabited by a race
+                        of people who are obstinate and preverse, and indeed, proverbially difficult
+                        to govern. The town in which he holds his official residenoe, Amoy, is the
+                        most important sea port in the entire province, and the seat of its naval
+                        Command ; and being a great resort of all the mercantile marine of China, it
+                        presents no sinecure to the authorities who have to keep its thousands under
+                        subjection, and prevent the prevalence of crime. Ever since the
+                        establishment of commercial intercourse with western nations in the 23rd
+                        year of the late reign, forests of barbarian ships have also frequented its
+                        harbour ; England has placed a barbarian eye in the city and her vessels as
+                        well as those of America and Spain have constantly made it their resort. The
+                        civilised and the barbarian are thus thrown into constant collision,
+                        facilities for their falling out with each other naturally present
+                        themselves, and thus call for increased anxiety on the part of the
+                        authorities in charge. To secure good management under these circumstances
+                        and prevent all risk of failure, it is I conceive absolutely necessary that
+                        an officer of uncompromising dignity, and possessing a thorough know-, ledge
+                        of the barbarian language should be the person selected for this port
+                        Bearing this in mind assisted by the Commissioner of Justice and Finance, I
+                        have carefully weighed the capabilities of every individual Intendant of
+                        Circuit in the province, and really have not been able to discover cue at
+                        all suited to the situation, and therefore, fearing evil consequences, have
+                        not filled up the vacancy in that way ; Chang Heyu, the individual at
+                        present officiating is a Tsinsze of Szechuen, and was promoted from a
+                        district Magistracy in Kwangtung to the Prefectship of Nanning in Kwangse.
+                        When Seu Keyu Governor of Fuhkeen was Commissioner of Justice at Canton in
+                        the 23rd year of Taoukwang, he had constant opportunities of meeting this
+                        officer, then Magis-rtate of Pwanyu Ileen, and he found him to be not only a
+                        literary character but also a most clear headed able and experienced man,
+                        besides which he observed that he possessed an intimate knowledge of the
+                        Barbarian disposition. Taking into consideration the necessity of selecting
+                        an officer qualified for his post where, as in this irstance, the peculiar
+                        interests of a post of foreign trade, are concerned, and the fact that no
+                        other person besides Chang Heyu can be found possessing equal experience of
+                        the barbarians and their habits, I feel it my duty after consultation with
+                        the Commissioners of Justice and Finance to request Your Majesty in
+                        consideration of the importance of the office of Intendant of Circuit of
+                        these maritime districts, and the interests of the country comprised therein
+                        to permit Heyu to fill the vacancy.”</p>
+                </div>
+                <div type="item">
+                    <head>To the Editor of the North China Herald</head>
+                    <p>Mr. Editor,—In the North-China Herald of the 14th December last, it is
+                        stated, that, if possible, the New Park will be completed in time for the
+                        next Spring Meeting of our Racing Club ; now that so speedy a termination to
+                        the exertions of the Committee who so kindly undertook the planning of the
+                        New Course, seems scarcely probable, will you allow me through the medium of
+                        your columns, to make a few suggestions respecting the much called for
+                        improvement of the present Park?</p>
+                    <p>The ground intended for the formation of a new ride for the Community has not
+                        been taken possession of, so I presume that the actual settlement of it
+                        remains still a question of time, and the period of its completion, for
+                        either Riding or Racing purposes seems still more indefinite. I would
+                        therefore suggest, that the original plan which now appears to be both more
+                        expensive, and less easily accomplished, than was at first expected, be cast
+                        aside for the present, and our wants he supplied in the following
+                        manner.</p>
+                    <p>For a good Racing and Riding ground suitable to our small Community, and</p>
+                    <p>the horses used by them, I would pro-</p>
+                    <p>pose that the Course be extended to the road leading from the village west of
+                        the Fives Court to the Soochow Creek, en-circling the Plantation at the west
+                        of the present Park, and forming the Course into a sort of oval, of which
+                        the Fives Court should be at one end and the proposed addition be at the
+                        other. The new portion either to be purchased entire, including all the land
+                        inside the Course, or merely buy or rent the land on which the new ride is
+                        formed, leaving the plantation &amp;e., in the hands of the present owners.
+                        With such a course the coiners might be well rounded, and even Sydney and
+                        Arab horses have full swing in their gallops.</p>
+                    <p>As a good country road is a great desideratum, I would suggest that one might
+                        be formed from the north west corner of the above proposed course, pass the
+                        north side of the village west of the Fives Court to the creek which bounds
+                        the Foreign ground over which let a new bridge be made (where the present
+                        wooden one stands) and from that take the first foot path to the south,
+                        widening it, and improving the small bridges until arrival at the "western
+                        road" and let the ride continue on that road to the red Joss house near the
+                        bubbling well ; and from it, return</p>
+                    <p>along the north side of the creek that</p>
+                    <p>runs east and west towards Shanghae, cross that creek about a quarter of a
+                        mile before arriving at the large stone Bridge beside the fir plantation,
+                        and continue east till arrived at the proposed new bridge over the creek
+                        which bounds the Foreign ground, and from thence proceed home by the course.
+                        e</p>
+                    <p>From this circuit many good roads branch off, and it is only some small re
+                        pairs to bridges that are required to make capital roads from it, to the
+                        Pagoda by St. Catherine’s bridge to the French Mis-sionaries (Sze-kea-wei,}
+                        Yah-ke tun, Fat-wha, &amp;e. Some compensation would be required for land
+                        lost by the widening of small paths, but the amount would be trifling. </p>
+                    <p>If the above suggestions were carried into effect we would have a safe road
+                        of some five or six miles in extent, without a single paved village to pass
+                        through and only one large bridge to cross ; I can not estimate the expense
+                        of the improvements here suggested, but there is little doubt that all of
+                        them could be carried out at a much less expense than the pro. posed new
+                        Park, and I would even venture to say they would suit the wants of the
+                        Foreign Residents much better, for we would have both a good course and a
+                        safe country road quite completed in all probability before the new Park is
+                        even commenced.</p>
+                    <p>I hope these remarks will lead to further suggestions for the improvement of
+                        country roads and that ere long we may be able to ride safely and
+                        comfortably to some distance from Shanghae.—I am Mr. Editor, your most
+                        obedient servant,</p>
+                    <p> E-LEE.</p>
+                    <p>Shanghae, 6th January, 1851.</p>
+                </div>
+                <div type="item">
+                    <head>EXTRACT FROM “TEA AND TEA TRADE,’’ By Gideon Nye, Jr., of Canton. THE
+                        QUESTION OF CONSUMPTION IN THE UNITED STATES. </head>
+                    <p>In reverting to the consideration of the question of the consumption in this
+                        country, we are always brought to the necessity of a more stable and uniform
+                        market here ;—the prevention of rapid and great fluctuation of prices, out
+                        of which spring the inducements to ship false and very inferior kinds of
+                        tea, from the introduction of which a distaste arises, and the use is
+                        checked.</p>
+                    <p>The nature of this commerce, based as it is upon an article of prime
+                        necessity, which is the production of but one country, and that a distant
+                        one, and the extension of whose use follows so surely the diffusion of
+                        knowledge, and conducted, as well in second as in first hands, by a
+                        comparatively limited number of the most intelligent and respectable
+                        merchants whilst its importation is almost confined to this port*, should
+                        exempt it from the frequent and rapid fluctuations which coffee and other
+                        products of many, and of near, as well as distant countries, whose
+                        importation and sale is neither confined to a limited number of merchants,
+                        or to any one port, are subject.</p>
+                    <p>In reviewing the trade for the last period of five years, we find a
+                        remarkable uniformity in its amount, as shown by the exports, from China
+                        hither, which, for convenience, we now repeat the gross sums of. Thus, there
+                        were shipped to "this country in—</p>
+                    <table rows="2" cols="8">
+                        <row>
+                            <cell/>
+                            <cell/>
+                            <cell>1845</cell>
+                            <cell>1846</cell>
+                            <cell>1847</cell>
+                        </row>
+                        <row>
+                            <cell>Green</cell>
+                            <cell>lbs</cell>
+                            <cell>13,812,099</cell>
+                            <cell>14,236,082</cell>
+                            <cell>14,388,938</cell>
+                        </row>
+                        <row>
+                            <cell>Black</cell>
+                            <cell>lbs</cell>
+                            <cell>6,950,459</cell>
+                            <cell>4,266,166</cell>
+                            <cell>4,493,798</cell>
+                        </row>
+                        <row>
+                            <cell>Total</cell>
+                            <cell/>
+                            <cell>20,762,558</cell>
+                            <cell>18,502,248</cell>
+                            <cell>18,887,736</cell>
+                        </row>
+                    </table>
+                    <table rows="5" cols="8">
+                        <row>
+                            <cell/>
+                            <cell/>
+                            <cell>1848</cell>
+                            <cell>1849</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Green</cell>
+                            <cell>bls</cell>
+                            <cell>15,340,656</cell>
+                            <cell>13,834,453</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Black</cell>
+                            <cell>bls</cell>
+                            <cell>3,998,578</cell>
+                            <cell>4,875,564</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>Total</cell>
+                            <cell/>
+                            <cell>19,339,083</cell>
+                            <cell>18,710,017</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                    </table>
+                    <p>Showing an average of about 14,323,000 pounds of green, and of about
+                        4,9171,000 pounds of black ; and of both, 19,240,000 pounds per annum.—This
+                        presents a</p>
+                    <p>uniformity such as no other article of importation does for a like period,
+                        and indicates a commerce free of the elements of fluctuation.</p>
+                    <p>We find therefore, that the influences which have disturbed the course of
+                        prices here are external, or of an imaginary nature, and that the remedy
+                        lies in the adoption of a new system of sales, by which a regular and more
+                        gradual offering of the annual and inevitable accumulation of the
+                        importations in the spring may be provided for. As to the period of shipment
+                        from China, the laws of nature control the operations of the merchant ; for
+                        the incoming of the crop of tea at</p>
+                    <p>the shipping ports is naturally in the autumn,</p>
+                    <p>the monsoon soon after favours the vessel’s return hither; and the
+                        approaching season of humidity does not less powerfully than the winds tend
+                        to warn merchant against delay in China.</p>
+                    <p>These natural and uncontrollable causes, then, indicate clearly the necessity
+                        of the suggested remedy. The considerations of its expediency have already
+                        been presented in the previous papers, in anticipation of the opening of the
+                        spring trade here ; and the subsequent course of the</p>
+                    <p>New York.</p>
+                </div>
 
 
             </div>
-            <div type="page" n="2"/>
             <div type="page" n="3"/>
         </body>
     </text>
