@@ -1,37 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-stylesheet type="text/xsl" href="dig-eg-gaz.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title level="m" type="main">North China Herald</title>
-                <title level="m" type="sub">An encoded transcription</title>
-                <principal>Zachary Reddick</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date when="2017-01-09">January 9, 2017<!-- Enter today's date --></date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>FSU University Libraries</publisher>
-                <pubPlace>Tallahassee, FL</pubPlace>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <title>The North China Herald</title>
-                    <date when="1851-01-25"><name>Saturday</name>, January 25, 1851</date>
-                    <extent><measure unit="pages" quantity="3">3</measure>pages</extent>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="page" n="1">   </div>
-            <div type="page" n="2"></div>
-            <div type="page" n="3"></div>
-        </body>
-    </text>
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Digital North China Herald</title>
+        <author>Zachary Reddick</author>
+      </titleStmt>
+      <editionStmt>
+        <edition><date><!-- Enter today's date --></date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>FSU University Libraries</publisher>
+        <pubPlace>Tallahassee, FL</pubPlace>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>The North China Herald</title>
+          <date when="1850-01-01">
+            <!-- Enter Date of Issue -->
+          </date><name><!-- Day of Issue --></name></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="page" n="1">
+        <div type="masthead">
+          <head>The North China Herald</head>
+          <p><!-- Vol.#. No.#. --> SHANGHAE, SATURDAY, 8TH MARCH, 1851. Price, 15 Dollars per
+            Annum.</p>
+        </div>
+      </div>
+      <div type="page" n="2"/>
+      <div type="page" n="3"/>
+      <div type="page" n="4"/>
+    </body>
+  </text>
 </TEI>
