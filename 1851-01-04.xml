@@ -1,40 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-stylesheet type="text/xsl" href="dig-eg-gaz.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title level="m" type="main">North China Herald</title>
-                <title level="m" type="sub">An encoded transcription</title>
-                <principal>Zachary Reddick</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date when="2017-01-09">January 9, 2017<!-- Enter today's date --></date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>FSU University Libraries</publisher>
-                <pubPlace>Tallahassee, FL</pubPlace>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl>
-                    <title>The North China Herald</title>
-                    <date when="1851-01-04"><name>Saturday</name>, January 4, 1851</date>
-                    <extent><measure unit="pages" quantity="3">3</measure>pages</extent>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="page" n="1">
-                <div type="masthead">
-                    <head>North China Herald</head>
-                    <!-- enter issue number, day, and date of publication -->
-                </div>
-                <div type="advert">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Digital North China Herald</title>
+        <author>Zachary Reddick</author>
+      </titleStmt>
+      <editionStmt>
+        <edition><date><!-- Enter today's date --></date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>FSU University Libraries</publisher>
+        <pubPlace>Tallahassee, FL</pubPlace>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>The North China Herald</title>
+          <date when="1850-01-01">
+            <!-- Enter Date of Issue -->
+          </date><name><!-- Day of Issue --></name></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="page" n="1">
+        <div type="masthead">
+          <head>The North China Herald</head>
+          <p><!-- Vol.#. No.#. --> SHANGHAE, SATURDAY, 8TH MARCH, 1851. Price, 15 Dollars per
+            Annum.</p>
+        </div>
+        <div type="advert">
                     <head>Shipping</head>
                     <p>FOR LONDON.</p>
                     <p>The SIR GEORGE POLLOCK, Captain Withers, will have immediate despatch. For
@@ -611,8 +606,8 @@
                     <!-- see image file-->
                 </div>
             </div>
-            <div type="page" n="2">
-                <div type="item">
+      <div type="page" n="2">
+       <div type="item">
                     <head>The North China Herald</head>
                     <p>NOTICE.—During the restoration of Trinity Church, Divine Service is held in
                         the Godown of J. White, Esq., Wei-ke. Hours of Service 11 o'clock a.m. and 3
@@ -990,8 +985,8 @@
                         </table></p>
                 </div>
                 <div type="item">
-                    <head>Pekin Reporter</head>
-                    <p>SUMMARY and EXTRACTS.</p>
+                    <head>Pekin Reporter SUMMARY and EXTRACTS</head>
+                    <dateline>1850-10-20, 1850-10-21</dateline>
                     <p>No. 117, Oct. 20th and 21st, 1850.</p>
                     <p>Decrees and Rescripts.</p>
                     <p>The first Decree confers promotion and honor upon a number of the civil and
@@ -1096,7 +1091,7 @@
                     <p>Yours, &amp;c., SINENSIS.</p>
                     <p>Shanghae, 1st January, 1851.</p>
                 </div>
-                <div type="article">
+                <div type="article" part="I">
                     <head>REPORT ON THE MARITIME TRADE OF CHINA, AND THE PROSPECTS OF THE MORE
                         VALUABLE PORTION BEING Transferred TO FOREIGN BOTTOMS. </head>
                     <p>With the Polynesian Archipelago, in connection with the Dutch, Spanish, and
@@ -1241,9 +1236,9 @@
                         Chinese subjects. This is not expressly stated in the Imperial
                         Commissioner’s communication</p>
                 </div>
-            </div>
-            <div type="page" n="3">
-                <div type="article">
+            </div> 
+      <div type="page" n="3">
+        <div type="article" part="F">
                     <p>vessels. it is difficult to discover foreign vessels, it is difficult to
                         discover in what the privilege consiste or what concession his Excellency
                         contemplated. </p>
@@ -1795,7 +1790,10 @@
                             </row>
                         </table></p>
                 </div>
-            </div>
-        </body>
-    </text>
+        
+        
+      </div>
+      <div type="page" n="4"/>
+    </body>
+  </text>
 </TEI>
